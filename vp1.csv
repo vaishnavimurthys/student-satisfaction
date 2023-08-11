@@ -1,0 +1,300 @@
+area_of_improvement,recommdation_likeliness,communication_availability,online_platform,extracurricular_activities,library_availibility,prompt_feedback,classroom_interaction,course_clarity,student_support_services,academic_advisers,cleanliness,research_resources ,accommodation,course_curriculum,teaching_quality,student_satisfaction
+Campus facilities,Likely,Average,Average,Good,Average,Yes,5,4,No,Moderately Available,Below Average,Average,Moderately satisfied,Good,Good,4
+Communication and information,Likely,Excellent,Excellent,Good,Excellent,No,4,4,Yes,Moderately Available,Excellent,Excellent,Very satisfied,Excellent,Average,4
+Student support services,Neutral,Average,Average,Average,Average,No,3,3,No,Moderately Available,Average,Average,Moderately satisfied,Average,Average,3
+Campus facilities,Very likely,Average,Good,Good,Good,Yes,5,3,Yes,Moderately Available,Good,Good,Very satisfied,Good,Average,4
+Student support services,Very unlikely,Excellent,Excellent,Poor,Below Average,No,3,3,No,Moderately Available,Good,Excellent,Not satisfied,Below Average,Average,2
+Other,Likely,Good,Good,Below Average,Excellent,Yes,5,5,Yes,Very Available,Excellent,Good,Not satisfied,Average,Good,4
+Student support services,Likely,Excellent,Excellent,Average,Good,Yes,4,4,No,Moderately Available,Good,Good,Slightly satisfied,Good,Good,4
+Communication and information,Neutral,Good,Average,Average,Good,Yes,3,4,No,Moderately Available,Good,Good,Not satisfied,Average,Average,3
+Academics,Neutral,Good,Excellent,Excellent,Excellent,Yes,3,4,No,Moderately Available,Excellent,Good,Very satisfied,Good,Good,4
+Academics,Very unlikely,Average,Average,Average,Good,No,3,2,No,Slightly Available,Good,Average,Moderately satisfied,Below Average,Average,2
+Academics,Very likely,Good,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Good,Excellent,Extremely satisfied,Excellent,Excellent,5
+Campus facilities,Very likely,Good,Excellent,Good,Excellent,Yes,5,4,Yes,Very Available,Good,Excellent,Moderately satisfied,Good,Good,4
+Academics,Neutral,Average,Average,Below Average,Average,No,2,3,No,Moderately Available,Average,Average,Moderately satisfied,Average,Average,3
+Student support services,Neutral,Good,Average,Below Average,Average,No,3,4,Yes,Very Available,Good,Average,Moderately satisfied,Average,Average,2
+Communication and information,Unlikely,Average,Good,Below Average,Good,Yes,1,3,Yes,Slightly Available,Average,Average,Slightly satisfied,Average,Below Average,2
+Student support services,Likely,Good,Good,Good,Good,Yes,4,4,No,Moderately Available,Good,Good,Slightly satisfied,Good,Good,4
+Campus facilities,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Good,Excellent,Very satisfied,Excellent,Excellent,5
+Academics,Likely,Good,Excellent,Average,Excellent,Yes,3,3,No,Slightly Available,Excellent,Good,Very satisfied,Good,Good,3
+Academics,Neutral,Excellent,Excellent,Excellent,Excellent,Yes,1,5,No,Moderately Available,Excellent,Excellent,Moderately satisfied,Excellent,Excellent,4
+Other,Very likely,Excellent,Excellent,Good,Excellent,Yes,5,5,Yes,Very Available,Excellent,Good,Very satisfied,Excellent,Excellent,5
+Communication and information,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+Communication and information,Likely,Average,Good,Good,Excellent,Yes,4,4,No,Moderately Available,Excellent,Good,Extremely satisfied,Good,Excellent,5
+Other,Neutral,Good,Excellent,Good,Excellent,Yes,3,4,No,Moderately Available,Good,Good,Moderately satisfied,Average,Good,4
+Academics,Neutral,Good,Good,Average,Good,Yes,4,1,Yes,Moderately Available,Good,Good,Very satisfied,Good,Good,3
+Student support services,Neutral,Good,Good,Good,Good,Yes,2,2,No,Slightly Available,Average,Average,Moderately satisfied,Average,Average,3
+Student support services,Likely,Good,Good,Average,Excellent,Yes,4,4,Yes,Moderately Available,Good,Average,Slightly satisfied,Good,Good,3
+Academics,Very unlikely,Excellent,Good,Good,Good,Yes,5,4,Yes,Very Available,Excellent,Good,Very satisfied,Good,Good,1
+Academics,Unlikely,Good,Good,Average,Excellent,No,3,2,Yes,Moderately Available,Excellent,Average,Extremely satisfied,Below Average,Below Average,3
+Student support services,Likely,Good,Excellent,Below Average,Excellent,Yes,2,4,Yes,Moderately Available,Average,Average,Moderately satisfied,Excellent,Good,3
+Campus facilities,Unlikely,Average,Good,Average,Good,No,3,3,No,Moderately Available,Excellent,Good,Moderately satisfied,Below Average,Average,2
+Academics,Likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Moderately Available,Excellent,Excellent,Very satisfied,Average,Good,4
+Student support services,Likely,Excellent,Average,Below Average,Good,Yes,4,5,Yes,Moderately Available,Excellent,Excellent,Extremely satisfied,Good,Good,4
+Student support services,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,1,1,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,1
+Student support services,Likely,Excellent,Excellent,Excellent,Excellent,Yes,4,5,Yes,Very Available,Excellent,Excellent,Very satisfied,Excellent,Excellent,4
+Campus facilities,Very likely,Excellent,Good,Excellent,Excellent,Yes,5,4,Yes,Very Available,Good,Good,Extremely satisfied,Excellent,Excellent,5
+Student support services,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+Student support services,Neutral,Good,Average,Below Average,Good,No,4,3,No,Moderately Available,Good,Average,Slightly satisfied,Good,Average,3
+Communication and information,Likely,Good,Good,Average,Excellent,Yes,4,5,Yes,Moderately Available,Excellent,Good,Very satisfied,Good,Good,4
+Student support services,Neutral,Average,Excellent,Below Average,Average,No,3,4,Yes,Very Available,Average,Average,Moderately satisfied,Good,Good,3
+Communication and information,Likely,Good,Good,Excellent,Excellent,Yes,4,4,Yes,Very Available,Good,Average,Very satisfied,Good,Excellent,4
+Academics,Very unlikely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+Student support services,Unlikely,Poor,Below Average,Poor,Below Average,No,2,3,No,Moderately Available,Excellent,Average,Moderately satisfied,Below Average,Average,3
+Academics,Neutral,Average,Good,Average,Good,Yes,5,4,No,Moderately Available,Good,Average,Moderately satisfied,Good,Good,4
+Campus facilities,Likely,Good,Good,Excellent,Excellent,No,5,3,No,Moderately Available,Excellent,Excellent,Moderately satisfied,Good,Excellent,4
+Student support services,Likely,Excellent,Good,Excellent,Good,Yes,5,5,Yes,Moderately Available,Good,Good,Very satisfied,Good,Excellent,5
+Academics,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,1,1,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+Student support services,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,No,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+Student support services,Neutral,Good,Good,Good,Good,Yes,3,4,No,Moderately Available,Good,Good,Moderately satisfied,Good,Good,3
+Student support services,Likely,Average,Excellent,Average,Excellent,Yes,5,3,No,Moderately Available,Excellent,Excellent,Moderately satisfied,Good,Average,4
+Student support services,Neutral,Below Average,Excellent,Poor,Average,Yes,2,3,No,Moderately Available,Good,Average,Moderately satisfied,Average,Average,3
+Other,Neutral,Good,Good,Good,Good,Yes,4,4,Yes,Very Available,Good,Good,Very satisfied,Good,Good,4
+Other,Likely,Good,Excellent,Good,Good,Yes,3,3,No,Moderately Available,Good,Good,Very satisfied,Good,Average,3
+Student support services,Very likely,Excellent,Excellent,Excellent,Good,Yes,4,5,Yes,Moderately Available,Good,Excellent,Very satisfied,Good,Good,4
+Academics,Unlikely,Average,Excellent,Poor,Good,No,2,3,No,Moderately Available,Excellent,Below Average,Very satisfied,Average,Average,3
+Academics,Neutral,Average,Good,Average,Average,No,4,3,No,Moderately Available,Average,Average,Moderately satisfied,Good,Good,3
+Academics,Very likely,Excellent,Excellent,Good,Excellent,No,4,4,No,Very Available,Excellent,Excellent,Extremely satisfied,Good,Good,4
+Student support services,Neutral,Good,Average,Below Average,Average,No,3,3,No,Moderately Available,Excellent,Average,Very satisfied,Average,Good,4
+Campus facilities,Unlikely,Below Average,Good,Poor,Below Average,No,2,3,No,Slightly Available,Average,Average,Slightly satisfied,Good,Good,3
+Campus facilities,Likely,Good,Good,Good,Good,Yes,2,4,Yes,Moderately Available,Good,Good,Very satisfied,Good,Good,2
+Academics,Neutral,Average,Good,Below Average,Below Average,No,3,3,No,Slightly Available,Good,Average,Moderately satisfied,Good,Good,3
+Campus facilities,Unlikely,Good,Good,Good,Good,No,2,3,Yes,Slightly Available,Excellent,Average,Very satisfied,Good,Below Average,3
+Communication and information,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+Campus facilities,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Very satisfied,Excellent,Excellent,5
+Academics,Likely,Average,Good,Excellent,Good,Yes,5,4,No,Very Available,Excellent,Excellent,Very satisfied,Good,Good,4
+Student support services,Likely,Good,Good,Good,Good,No,3,4,No,Moderately Available,Average,Good,Moderately satisfied,Good,Good,3
+Campus facilities,Likely,Good,Good,Good,Good,Yes,2,4,Yes,Very Available,Good,Good,Very satisfied,Excellent,Good,4
+Academics,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+Student support services,Likely,Good,Excellent,Average,Excellent,Yes,4,5,No,Very Available,Excellent,Excellent,Moderately satisfied,Good,Good,3
+Campus facilities,Very likely,Average,Good,Excellent,Average,No,5,4,No,Moderately Available,Good,Average,Moderately satisfied,Good,Good,4
+Academics,Likely,Good,Good,Good,Good,Yes,4,4,Yes,Moderately Available,Good,Good,Very satisfied,Good,Good,4
+Communication and information,Very likely,Good,Good,Good,Excellent,No,3,3,Yes,Moderately Available,Excellent,Good,Very satisfied,Excellent,Good,5
+Student support services,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Moderately Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+Academics,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,No,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+Student support services,Neutral,Below Average,Below Average,Poor,Below Average,No,2,3,No,Moderately Available,Good,Below Average,Moderately satisfied,Average,Good,3
+Campus facilities,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,1,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+Communication and information,Neutral,Below Average,Average,Below Average,Good,No,3,3,No,Not Available,Average,Below Average,Moderately satisfied,Good,Good,3
+Academics,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+Communication and information,Neutral,Below Average,Excellent,Good,Good,No,3,3,No,Moderately Available,Average,Average,Moderately satisfied,Average,Average,3
+Student support services,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+Campus facilities,Likely,Good,Good,Good,Good,Yes,3,3,Yes,Moderately Available,Excellent,Good,Very satisfied,Good,Good,2
+Academics,Very likely,Good,Excellent,Excellent,Excellent,Yes,4,4,Yes,Very Available,Excellent,Excellent,Very satisfied,Good,Good,4
+Academics,Neutral,Excellent,Excellent,Good,Excellent,No,3,4,No,Moderately Available,Excellent,Good,Very satisfied,Good,Average,4
+Communication and information,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,No,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+Academics,Neutral,Good,Below Average,Average,Excellent,Yes,3,4,Yes,Very Available,Excellent,Good,Moderately satisfied,Good,Average,3
+Campus facilities,Neutral,Good,Good,Good,Good,Yes,3,3,No,Moderately Available,Good,Average,Moderately satisfied,Good,Good,3
+Campus facilities,Neutral,Good,Excellent,Excellent,Average,Yes,3,5,No,Moderately Available,Good,Excellent,Moderately satisfied,Good,Good,4
+Student support services,Likely,Excellent,Good,Good,Good,Yes,4,4,Yes,Very Available,Excellent,Good,Very satisfied,Excellent,Excellent,4
+Campus facilities,Very likely,Good,Good,Good,Excellent,Yes,4,4,No,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Good,4
+Other,Likely,Good,Excellent,Excellent,Good,Yes,4,4,Yes,Moderately Available,Good,Good,Moderately satisfied,Good,Good,4
+Campus facilities,Likely,Average,Excellent,Good,Excellent,Yes,4,4,No,Moderately Available,Excellent,Good,Extremely satisfied,Good,Average,5
+Other,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+Student support services,Neutral,Average,Average,Average,Average,Yes,3,3,No,Slightly Available,Average,Average,Moderately satisfied,Average,Average,3
+Other,Very likely,Excellent,Excellent,Excellent,Good,Yes,5,5,No,Very Available,Excellent,Good,Extremely satisfied,Good,Good,5
+Student support services,Neutral,Average,Average,Good,Good,Yes,3,3,Yes,Moderately Available,Poor,Good,Moderately satisfied,Average,Good,3
+Campus facilities,Very likely,Average,Poor,Average,Excellent,Yes,3,3,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Average,Good,5
+Campus facilities,Very likely,Excellent,Good,Excellent,Excellent,Yes,5,5,No,Very Available,Excellent,Good,Very satisfied,Excellent,Good,5
+Communication and information,Likely,Good,Good,Good,Good,Yes,4,4,No,Very Available,Excellent,Excellent,Moderately satisfied,Good,Good,4
+Campus facilities,Neutral,Excellent,Good,Average,Average,No,4,3,Yes,Moderately Available,Average,Poor,Moderately satisfied,Good,Excellent,3
+Other,Likely,Good,Excellent,Good,Excellent,Yes,5,5,Yes,Moderately Available,Excellent,Excellent,Moderately satisfied,Good,Good,4
+Other,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+Communication and information,Likely,Good,Good,Good,Excellent,Yes,5,4,Yes,Very Available,Good,Good,Moderately satisfied,Good,Excellent,3
+Communication and information,Very likely,Excellent,Good,Excellent,Excellent,Yes,4,5,Yes,Very Available,Excellent,Excellent,Very satisfied,Good,Excellent,5
+Academics,Very likely,Excellent,Excellent,Good,Excellent,Yes,4,4,No,Moderately Available,Excellent,Average,Extremely satisfied,Good,Good,5
+Campus facilities,Very likely,Good,Excellent,Excellent,Excellent,Yes,4,4,No,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Good,5
+Academics,Neutral,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,3
+Academics,Likely,Good,Good,Good,Excellent,Yes,4,4,Yes,Very Available,Good,Good,Very satisfied,Excellent,Good,4
+Other,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+Student support services,Very likely,Good,Good,Excellent,Good,Yes,4,4,No,Moderately Available,Good,Excellent,Extremely satisfied,Good,Good,4
+Campus facilities,Very likely,Excellent,Excellent,Good,Good,Yes,1,1,Yes,Very Available,Excellent,Good,Extremely satisfied,Excellent,Good,2
+Academics,Likely,Good,Average,Good,Good,Yes,3,3,Yes,Moderately Available,Good,Good,Slightly satisfied,Good,Good,3
+Campus facilities,Likely,Good,Good,Good,Good,Yes,5,5,Yes,Very Available,Good,Good,Very satisfied,Good,Good,5
+Other,Likely,Good,Average,Good,Excellent,Yes,4,3,Yes,Moderately Available,Good,Good,Moderately satisfied,Average,Good,4
+Other,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+Student support services,Likely,Average,Average,Good,Good,Yes,5,5,Yes,Moderately Available,Good,Excellent,Moderately satisfied,Good,Excellent,3
+Student support services,Likely,Good,Good,Average,Good,Yes,4,3,Yes,Very Available,Good,Good,Very satisfied,Good,Good,3
+Academics,Likely,Good,Average,Below Average,Average,Yes,5,5,No,Slightly Available,Good,Good,Moderately satisfied,Good,Excellent,3
+Campus facilities,Likely,Good,Good,Good,Good,Yes,4,5,Yes,Moderately Available,Good,Good,Moderately satisfied,Excellent,Good,4
+Student support services,Unlikely,Poor,Average,Poor,Below Average,Yes,1,1,No,Not Available,Below Average,Average,Not satisfied,Below Average,Below Average,1
+Other,Very likely,Excellent,Average,Good,Excellent,Yes,4,4,Yes,Slightly Available,Excellent,Excellent,Not satisfied,Excellent,Good,4
+Campus facilities,Very likely,Good,Good,Good,Good,Yes,2,1,Yes,Very Available,Good,Good,Extremely satisfied,Good,Good,3
+Communication and information,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+Other,Likely,Average,Excellent,Excellent,Excellent,No,4,5,Yes,Very Available,Average,Average,Slightly satisfied,Good,Good,3
+Academics,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+Other,Neutral,Average,Average,Average,Average,No,3,3,No,Moderately Available,Average,Average,Moderately satisfied,Excellent,Excellent,3
+Communication and information,Very likely,Excellent,Good,Good,Good,Yes,4,5,Yes,Very Available,Good,Good,Very satisfied,Good,Good,5
+Student support services,Likely,Good,Average,Excellent,Excellent,Yes,4,4,Yes,Moderately Available,Good,Good,Very satisfied,Good,Good,4
+Campus facilities,Likely,Good,Average,Good,Average,Yes,4,4,Yes,Moderately Available,Good,Good,Moderately satisfied,Good,Good,4
+Student support services,Very likely,Good,Good,Good,Good,No,2,2,Yes,Moderately Available,Good,Good,Not satisfied,Excellent,Excellent,1
+Campus facilities,Likely,Excellent,Excellent,Excellent,Average,No,4,4,Yes,Slightly Available,Excellent,Excellent,Very satisfied,Good,Good,3
+Academics,Likely,Average,Good,Poor,Average,Yes,2,3,No,Slightly Available,Good,Average,Extremely satisfied,Good,Good,3
+Campus facilities,Likely,Excellent,Excellent,Good,Excellent,Yes,4,4,Yes,Moderately Available,Good,Good,Moderately satisfied,Good,Good,4
+Communication and information,Neutral,Below Average,Good,Good,Excellent,No,4,5,No,Slightly Available,Excellent,Good,Very satisfied,Average,Average,3
+Other,Likely,Excellent,Excellent,Excellent,Excellent,Yes,4,4,Yes,Very Available,Excellent,Good,Moderately satisfied,Good,Excellent,4
+Campus facilities,Likely,Good,Good,Excellent,Good,Yes,4,4,Yes,Moderately Available,Excellent,Good,Extremely satisfied,Good,Excellent,4
+Academics,Very likely,Good,Good,Good,Good,Yes,2,5,Yes,Very Available,Good,Good,Very satisfied,Good,Good,4
+Academics,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+Campus facilities,Likely,Good,Excellent,Good,Excellent,Yes,3,3,Yes,Moderately Available,Excellent,Good,Moderately satisfied,Good,Good,3
+Student support services,Likely,Good,Good,Excellent,Excellent,Yes,4,4,Yes,Very Available,Excellent,Good,Very satisfied,Good,Good,4
+Student support services,Likely,Below Average,Excellent,Average,Excellent,Yes,3,4,Yes,Very Available,Excellent,Good,Moderately satisfied,Good,Good,4
+Other,Very likely,Good,Average,Excellent,Excellent,Yes,4,3,Yes,Very Available,Excellent,Good,Very satisfied,Excellent,Good,5
+Other,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Good,Excellent,5
+Student support services,Very likely,Excellent,Good,Excellent,Excellent,Yes,5,4,Yes,Very Available,Excellent,Good,Very satisfied,Excellent,Good,5
+Student support services,Likely,Good,Good,Excellent,Excellent,No,5,5,No,Moderately Available,Excellent,Excellent,Moderately satisfied,Good,Good,5
+Student support services,Very likely,Good,Excellent,Average,Average,Yes,4,4,No,Moderately Available,Excellent,Average,Extremely satisfied,Good,Excellent,4
+Campus facilities,Neutral,Average,Average,Below Average,Below Average,No,2,2,Yes,Slightly Available,Good,Good,Slightly satisfied,Excellent,Excellent,2
+Other,Very unlikely,Poor,Poor,Poor,Poor,Yes,1,1,No,Not Available,Poor,Poor,Not satisfied,Poor,Poor,1
+Communication and information,Unlikely,Poor,Poor,Poor,Poor,No,2,2,No,Not Available,Below Average,Good,Moderately satisfied,Average,Below Average,2
+Academics,Likely,Good,Good,Good,Good,Yes,1,1,Yes,Very Available,Good,Good,Moderately satisfied,Good,Good,1
+Other,Very unlikely,Poor,Poor,Poor,Poor,No,1,1,No,Not Available,Poor,Poor,Not satisfied,Poor,Poor,1
+Student support services,Neutral,Below Average,Average,Average,Average,No,4,2,No,Moderately Available,Average,Good,Slightly satisfied,Good,Good,3
+Campus facilities,Likely,Good,Good,Good,Good,Yes,2,1,No,Not Available,Poor,Good,Not satisfied,Good,Good,1
+Campus facilities,Likely,Good,Good,Good,Good,Yes,5,5,No,Moderately Available,Average,Excellent,Moderately satisfied,Excellent,Excellent,3
+Other,Likely,Good,Below Average,Average,Average,No,3,4,No,Slightly Available,Good,Good,Slightly satisfied,Good,Good,3
+Student support services,Likely,Average,Average,Good,Good,Yes,4,4,No,Slightly Available,Good,Good,Very satisfied,Good,Excellent,3
+Communication and information,Likely,Below Average,Average,Below Average,Poor,Yes,3,3,No,Slightly Available,Average,Average,Slightly satisfied,Average,Average,2
+Campus facilities,Neutral,Average,Average,Average,Average,No,3,3,No,Slightly Available,Average,Average,Slightly satisfied,Good,Good,4
+Other,Likely,Good,Good,Average,Good,Yes,5,5,No,Slightly Available,Good,Average,Slightly satisfied,Good,Excellent,5
+Academics,Likely,Excellent,Good,Good,Good,Yes,5,2,Yes,Moderately Available,Below Average,Good,Extremely satisfied,Excellent,Good,4
+Academics,Unlikely,Average,Below Average,Poor,Poor,No,2,1,No,Slightly Available,Poor,Poor,Moderately satisfied,Average,Average,2
+Communication and information,Likely,Good,Poor,Good,Poor,Yes,4,4,Yes,Slightly Available,Good,Good,Slightly satisfied,Good,Good,4
+Other,Very likely,Excellent,Below Average,Excellent,Average,Yes,4,3,No,Very Available,Good,Good,Very satisfied,Good,Good,5
+Other,Very likely,Good,Good,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Good,Very satisfied,Excellent,Excellent,5
+Academics,Neutral,Good,Good,Good,Good,No,1,1,Yes,Moderately Available,Good,Good,Extremely satisfied,Good,Good,1
+Other,Very unlikely,Poor,Poor,Poor,Poor,No,5,1,No,Not Available,Poor,Poor,Not satisfied,Poor,Poor,1
+Other,Neutral,Average,Average,Good,Good,Yes,3,3,No,Not Available,Average,Average,Not satisfied,Average,Average,3
+Other,Neutral,Average,Good,Average,Below Average,Yes,2,3,Yes,Not Available,Good,Good,Very satisfied,Good,Average,3
+Other,Likely,Excellent,Good,Excellent,Good,No,4,4,No,Moderately Available,Below Average,Good,Moderately satisfied,Excellent,Good,4
+Student support services,Very unlikely,Poor,Excellent,Poor,Excellent,Yes,5,3,No,Not Available,Poor,Poor,Slightly satisfied,Excellent,Excellent,3
+Campus facilities,Likely,Good,Good,Good,Poor,Yes,5,3,Yes,Very Available,Below Average,Good,Moderately satisfied,Excellent,Good,2
+Communication and information,Very unlikely,Below Average,Below Average,Average,Poor,No,4,3,No,Not Available,Below Average,Below Average,Slightly satisfied,Average,Average,4
+Other,Neutral,Average,Average,Average,Average,Yes,3,3,No,Not Available,Average,Average,Not satisfied,Average,Average,3
+Student support services,Very likely,Good,Good,Excellent,Good,Yes,2,5,Yes,Moderately Available,Average,Good,Not satisfied,Average,Good,2
+Student support services,Very likely,Below Average,Below Average,Poor,Poor,No,4,2,No,Not Available,Poor,Good,Not satisfied,Good,Average,3
+Campus facilities,Likely,Average,Poor,Average,Poor,Yes,1,3,No,Moderately Available,Average,Good,Moderately satisfied,Average,Good,3
+Communication and information,Likely,Good,Good,Good,Excellent,Yes,1,1,Yes,Moderately Available,Good,Good,Very satisfied,Good,Good,2
+Student support services,Likely,Average,Below Average,Excellent,Average,Yes,3,2,No,Slightly Available,Excellent,Good,Not satisfied,Excellent,Good,1
+Student support services,Likely,Average,Average,Good,Average,No,3,3,No,Very Available,Average,Average,Moderately satisfied,Good,Good,3
+Student support services,Likely,Average,Average,Good,Average,Yes,3,4,Yes,Moderately Available,Average,Good,Very satisfied,Average,Good,3
+Academics,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+Student support services,Likely,Good,Good,Good,Good,Yes,5,4,Yes,Slightly Available,Good,Good,Slightly satisfied,Good,Good,3
+Student support services,Likely,Poor,Poor,Poor,Poor,No,1,1,No,Not Available,Excellent,Poor,Not satisfied,Below Average,Poor,3
+Student support services,Likely,Average,Poor,Average,Poor,Yes,2,2,No,Moderately Available,Poor,Average,Moderately satisfied,Good,Excellent,2
+Academics,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,1,1,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,1
+Campus facilities,Likely,Good,Good,Average,Good,No,4,3,Yes,Moderately Available,Good,Excellent,Extremely satisfied,Good,Good,5
+Communication and information,Neutral,Below Average,Poor,Good,Poor,Yes,3,5,No,Not Available,Poor,Average,Not satisfied,Average,Average,2
+Academics,Neutral,Average,Good,Average,Poor,Yes,3,1,No,Slightly Available,Poor,Average,Slightly satisfied,Average,Excellent,3
+Other,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+Other,Likely,Average,Good,Below Average,Good,Yes,3,4,No,Moderately Available,Average,Good,Very satisfied,Good,Good,3
+Communication and information,Likely,Good,Average,Average,Average,Yes,2,2,No,Slightly Available,Average,Average,Moderately satisfied,Good,Good,2
+Student support services,Very likely,Good,Average,Good,Good,Yes,4,4,Yes,Very Available,Good,Good,Very satisfied,Good,Good,5
+Academics,Neutral,Average,Average,Good,Poor,Yes,3,3,No,Moderately Available,Average,Average,Moderately satisfied,Average,Average,3
+Student support services,Unlikely,Poor,Poor,Poor,Poor,No,2,2,No,Not Available,Average,Average,Slightly satisfied,Average,Average,2
+Other,Very unlikely,Average,Poor,Poor,Poor,No,1,3,No,Not Available,Good,Good,Not satisfied,Average,Below Average,5
+Campus facilities,Likely,Average,Average,Good,Average,Yes,5,3,No,Moderately Available,Good,Excellent,Moderately satisfied,Good,Good,3
+Other,Unlikely,Good,Good,Good,Good,No,5,2,No,Moderately Available,Good,Good,Slightly satisfied,Good,Poor,3
+Campus facilities,Neutral,Good,Average,Good,Average,Yes,3,3,No,Slightly Available,Below Average,Average,Slightly satisfied,Good,Good,3
+Campus facilities,Very likely,Excellent,Good,Below Average,Poor,No,3,3,No,Slightly Available,Below Average,Below Average,Not satisfied,Average,Good,1
+Academics,Likely,Good,Good,Good,Good,Yes,5,5,Yes,Very Available,Good,Good,Very satisfied,Good,Good,5
+Campus facilities,Very unlikely,Poor,Poor,Average,Poor,Yes,1,1,No,Not Available,Poor,Below Average,Slightly satisfied,Below Average,Below Average,1
+Other,Neutral,Good,Good,Good,Good,Yes,5,5,No,Very Available,Good,Good,Very satisfied,Good,Good,5
+Campus facilities,Neutral,Average,Average,Average,Average,Yes,3,1,Yes,Slightly Available,Average,Average,Not satisfied,Average,Average,3
+Campus facilities,Neutral,Good,Good,Poor,Below Average,Yes,5,4,No,Moderately Available,Good,Good,Very satisfied,Average,Average,4
+Campus facilities,Likely,Good,Good,Below Average,Poor,Yes,4,1,Yes,Moderately Available,Average,Good,Not satisfied,Average,Good,3
+Student support services,Neutral,Average,Good,Excellent,Good,Yes,4,4,No,Moderately Available,Average,Good,Moderately satisfied,Good,Good,2
+Academics,Likely,Average,Good,Excellent,Below Average,Yes,4,4,Yes,Moderately Available,Below Average,Average,Moderately satisfied,Good,Excellent,4
+Student support services,Neutral,Average,Below Average,Average,Average,No,3,2,No,Moderately Available,Below Average,Good,Moderately satisfied,Good,Good,4
+Student support services,Neutral,Good,Average,Good,Average,No,2,5,No,Moderately Available,Poor,Good,Slightly satisfied,Excellent,Excellent,5
+Academics,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,1,1,Yes,Very Available,Excellent,Excellent,Very satisfied,Excellent,Excellent,1
+Academics,Likely,Good,Good,Good,Good,Yes,5,4,No,Moderately Available,Good,Good,Very satisfied,Good,Excellent,2
+Campus facilities,Likely,Good,Excellent,Good,Good,No,2,1,No,Very Available,Average,Good,Very satisfied,Excellent,Good,4
+Campus facilities,Likely,Average,Average,Good,Good,Yes,3,3,No,Moderately Available,Good,Average,Slightly satisfied,Average,Good,3
+Student support services,Likely,Good,Good,Good,Good,Yes,5,5,Yes,Very Available,Good,Good,Very satisfied,Good,Good,5
+Academics,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Moderately Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+Other,Likely,Good,Good,Excellent,Good,Yes,4,4,Yes,Very Available,Good,Excellent,Moderately satisfied,Good,Good,4
+Communication and information,Neutral,Good,Good,Good,Good,Yes,3,3,Yes,Very Available,Excellent,Good,Very satisfied,Good,Good,3
+Campus facilities,Likely,Average,Average,Below Average,Good,Yes,4,4,No,Moderately Available,Below Average,Average,Moderately satisfied,Good,Good,4
+Campus facilities,Likely,Good,Good,Average,Average,Yes,2,2,No,Moderately Available,Good,Good,Very satisfied,Excellent,Excellent,2
+Student support services,Likely,Good,Good,Good,Average,Yes,4,3,Yes,Moderately Available,Below Average,Good,Moderately satisfied,Average,Average,3
+Campus facilities,Neutral,Average,Below Average,Average,Below Average,Yes,3,3,No,Slightly Available,Below Average,Below Average,Moderately satisfied,Good,Good,3
+Student support services,Likely,Average,Average,Average,Good,Yes,3,1,Yes,Moderately Available,Good,Average,Very satisfied,Good,Average,2
+Other,Unlikely,Average,Average,Good,Poor,Yes,3,3,No,Slightly Available,Average,Below Average,Not satisfied,Poor,Average,4
+Academics,Very likely,Excellent,Good,Good,Excellent,No,5,3,No,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+Student support services,Neutral,Below Average,Below Average,Below Average,Poor,Yes,2,3,No,Not Available,Good,Below Average,Moderately satisfied,Good,Average,2
+Campus facilities,Likely,Average,Below Average,Average,Average,Yes,2,3,No,Moderately Available,Poor,Average,Moderately satisfied,Good,Good,3
+Campus facilities,Very likely,Excellent,Good,Excellent,Average,Yes,5,5,No,Slightly Available,Excellent,Average,Extremely satisfied,Excellent,Good,5
+Campus facilities,Very unlikely,Poor,Poor,Poor,Poor,No,1,1,Yes,Not Available,Poor,Poor,Not satisfied,Poor,Poor,1
+Other,Very likely,Excellent,Excellent,Good,Good,Yes,1,1,Yes,Moderately Available,Excellent,Excellent,Extremely satisfied,Good,Excellent,1
+Other,Very likely,Excellent,Good,Good,Excellent,Yes,1,1,Yes,Moderately Available,Good,Excellent,Extremely satisfied,Good,Excellent,1
+Student support services,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+Other,Neutral,Average,Below Average,Good,Average,Yes,4,3,No,Not Available,Below Average,Average,Slightly satisfied,Good,Good,4
+Communication and information,Neutral,Average,Excellent,Excellent,Good,Yes,5,3,No,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,4
+Student support services,Very unlikely,Poor,Poor,Below Average,Poor,Yes,3,1,No,Not Available,Poor,Poor,Not satisfied,Average,Below Average,1
+Other,Neutral,Average,Average,Poor,Average,No,5,5,Yes,Slightly Available,Below Average,Poor,Very satisfied,Excellent,Good,2
+Campus facilities,Neutral,Poor,Average,Poor,Poor,No,3,5,No,Not Available,Poor,Below Average,Slightly satisfied,Below Average,Average,1
+Other,Likely,Average,Below Average,Average,Average,No,3,3,No,Moderately Available,Good,Average,Slightly satisfied,Good,Good,3
+Academics,Neutral,Excellent,Excellent,Excellent,Good,Yes,5,2,Yes,Very Available,Good,Excellent,Very satisfied,Good,Good,2
+Campus facilities,Likely,Good,Average,Average,Excellent,Yes,2,1,No,Very Available,Good,Good,Very satisfied,Good,Good,2
+Communication and information,Neutral,Poor,Average,Poor,Below Average,Yes,3,3,No,Slightly Available,Poor,Average,Slightly satisfied,Average,Average,4
+Campus facilities,Unlikely,Below Average,Average,Below Average,Poor,No,3,4,No,Slightly Available,Poor,Good,Moderately satisfied,Poor,Good,4
+Academics,Likely,Excellent,Excellent,Good,Excellent,Yes,4,4,No,Moderately Available,Excellent,Good,Extremely satisfied,Good,Good,4
+Campus facilities,Unlikely,Below Average,Poor,Poor,Good,No,1,2,No,Not Available,Poor,Poor,Slightly satisfied,Poor,Below Average,1
+Campus facilities,Unlikely,Poor,Poor,Poor,Poor,No,1,1,No,Not Available,Poor,Poor,Not satisfied,Poor,Poor,1
+Academics,Likely,Good,Average,Average,Below Average,Yes,2,3,Yes,Very Available,Poor,Excellent,Very satisfied,Good,Good,3
+Student support services,Very likely,Excellent,Good,Excellent,Good,Yes,1,3,Yes,Not Available,Good,Good,Very satisfied,Good,Excellent,5
+Campus facilities,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+Campus facilities,Likely,Average,Below Average,Average,Poor,Yes,2,3,No,Moderately Available,Average,Average,Slightly satisfied,Average,Good,3
+Academics,Likely,Excellent,Good,Good,Good,Yes,5,4,No,Moderately Available,Average,Good,Moderately satisfied,Good,Good,5
+Other,Likely,Excellent,Excellent,Excellent,Average,Yes,3,1,Yes,Very Available,Good,Good,Very satisfied,Good,Good,2
+Other,Likely,Excellent,Excellent,Excellent,Average,Yes,3,1,Yes,Very Available,Good,Good,Very satisfied,Good,Good,2
+Other,Likely,Good,Good,Good,Good,Yes,2,2,Yes,Moderately Available,Good,Good,Very satisfied,Good,Good,2
+Campus facilities,Likely,Good,Good,Good,Good,Yes,3,3,Yes,Very Available,Good,Good,Moderately satisfied,Good,Good,3
+Campus facilities,Neutral,Average,Good,Average,Good,Yes,4,4,Yes,Moderately Available,Average,Good,Extremely satisfied,Good,Good,4
+Communication and information,Likely,Average,Good,Good,Good,Yes,4,5,No,Moderately Available,Good,Good,Slightly satisfied,Good,Good,4
+Communication and information,Neutral,Average,Average,Below Average,Poor,Yes,3,3,No,Not Available,Poor,Poor,Slightly satisfied,Below Average,Average,3
+Communication and information,Very likely,Good,Good,Excellent,Good,Yes,5,3,Yes,Very Available,Good,Good,Very satisfied,Good,Excellent,4
+Campus facilities,Neutral,Average,Below Average,Average,Below Average,Yes,3,2,No,Very Available,Below Average,Average,Moderately satisfied,Good,Average,3
+Campus facilities,Very unlikely,Poor,Average,Average,Average,No,2,2,No,Not Available,Poor,Average,Not satisfied,Average,Average,1
+Academics,Likely,Good,Excellent,Good,Average,No,1,1,Yes,Very Available,Good,Excellent,Very satisfied,Good,Good,1
+Student support services,Likely,Poor,Good,Average,Good,Yes,3,3,Yes,Slightly Available,Good,Average,Slightly satisfied,Good,Good,3
+Academics,Likely,Good,Average,Good,Good,Yes,4,3,Yes,Very Available,Excellent,Average,Moderately satisfied,Good,Excellent,5
+Campus facilities,Neutral,Poor,Below Average,Poor,Below Average,No,1,1,No,Not Available,Poor,Poor,Not satisfied,Below Average,Below Average,1
+Communication and information,Neutral,Below Average,Average,Good,Poor,No,1,5,Yes,Not Available,Good,Average,Slightly satisfied,Poor,Below Average,1
+Student support services,Neutral,Excellent,Excellent,Excellent,Excellent,Yes,1,1,Yes,Very Available,Excellent,Excellent,Very satisfied,Excellent,Excellent,1
+Academics,Very likely,Below Average,Excellent,Excellent,Excellent,Yes,1,1,Yes,Very Available,Excellent,Good,Extremely satisfied,Excellent,Excellent,1
+Student support services,Very likely,Good,Poor,Good,Below Average,Yes,5,3,Yes,Not Available,Good,Good,Very satisfied,Poor,Good,5
+Other,Likely,Good,Good,Good,Good,Yes,4,4,No,Moderately Available,Good,Good,Very satisfied,Excellent,Good,4
+Academics,Very likely,Good,Excellent,Good,Excellent,Yes,1,1,Yes,Very Available,Good,Good,Very satisfied,Excellent,Excellent,1
+Academics,Likely,Average,Average,Good,Good,Yes,3,2,Yes,Slightly Available,Good,Good,Very satisfied,Below Average,Average,3
+Student support services,Likely,Average,Poor,Excellent,Excellent,No,3,3,Yes,Moderately Available,Below Average,Poor,Very satisfied,Below Average,Good,4
+Other,Neutral,Average,Good,Good,Good,No,3,3,Yes,Moderately Available,Average,Good,Very satisfied,Good,Good,4
+Campus facilities,Very likely,Good,Good,Excellent,Excellent,Yes,5,5,Yes,Very Available,Good,Excellent,Very satisfied,Excellent,Excellent,5
+Campus facilities,Likely,Average,Average,Average,Below Average,Yes,3,4,Yes,Moderately Available,Good,Good,Moderately satisfied,Good,Good,4
+Communication and information,Very likely,Average,Good,Poor,Excellent,Yes,5,5,Yes,Moderately Available,Average,Average,Very satisfied,Excellent,Good,3
+Academics,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,1,1,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,1
+Academics,Unlikely,Good,Poor,Below Average,Good,Yes,3,3,No,Moderately Available,Poor,Average,Moderately satisfied,Average,Average,1
+Academics,Very likely,Good,Good,Good,Excellent,Yes,2,1,Yes,Very Available,Good,Good,Very satisfied,Good,Excellent,5
+Student support services,Very likely,Excellent,Good,Excellent,Excellent,Yes,2,3,Yes,Moderately Available,Excellent,Excellent,Slightly satisfied,Excellent,Good,3
+Student support services,Likely,Good,Poor,Poor,Good,Yes,3,4,Yes,Slightly Available,Good,Poor,Very satisfied,Good,Good,3
+Academics,Very likely,Good,Good,Good,Excellent,Yes,2,2,Yes,Very Available,Excellent,Average,Extremely satisfied,Good,Excellent,5
+Other,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Good,Excellent,5
+Campus facilities,Very unlikely,Poor,Poor,Poor,Poor,No,3,2,No,Slightly Available,Poor,Poor,Slightly satisfied,Below Average,Average,1
+Communication and information,Likely,Good,Average,Excellent,Excellent,Yes,5,5,Yes,Very Available,Good,Good,Very satisfied,Good,Excellent,5
+Academics,Likely,Average,Good,Excellent,Good,Yes,2,2,Yes,Moderately Available,Good,Good,Very satisfied,Good,Good,3
+Campus facilities,Very unlikely,Below Average,Poor,Below Average,Below Average,No,2,3,No,Not Available,Poor,Average,Not satisfied,Average,Average,1
+Student support services,Likely,Poor,Poor,Good,Good,No,2,2,Yes,Slightly Available,Poor,Good,Slightly satisfied,Good,Good,3
+Campus facilities,Neutral,Average,Average,Poor,Below Average,No,3,2,No,Slightly Available,Below Average,Good,Moderately satisfied,Good,Good,3
+Campus facilities,Likely,Good,Good,Good,Good,Yes,4,4,Yes,Very Available,Excellent,Good,Very satisfied,Good,Excellent,5
+Other,Likely,Good,Average,Average,Good,No,4,5,No,Very Available,Average,Good,Moderately satisfied,Good,Excellent,2
+Academics,Likely,Average,Poor,Below Average,Poor,No,1,1,Yes,Not Available,Good,Poor,Moderately satisfied,Poor,Poor,1
+Student support services,Likely,Good,Excellent,Average,Good,No,5,5,No,Very Available,Average,Good,Slightly satisfied,Excellent,Excellent,1
+Student support services,Likely,Excellent,Excellent,Average,Excellent,No,4,5,No,Very Available,Excellent,Good,Slightly satisfied,Excellent,Excellent,1
+Campus facilities,Neutral,Below Average,Average,Average,Average,Yes,4,4,No,Slightly Available,Average,Average,Moderately satisfied,Average,Average,3
+Student support services,Neutral,Poor,Average,Poor,Good,No,2,3,Yes,Moderately Available,Excellent,Poor,Not satisfied,Good,Good,3
+Campus facilities,Neutral,Below Average,Good,Below Average,Below Average,No,4,3,No,Slightly Available,Below Average,Average,Moderately satisfied,Average,Average,3
+Academics,Likely,Good,Average,Good,Average,No,4,3,No,Slightly Available,Good,Good,Slightly satisfied,Excellent,Excellent,5
+Academics,Likely,Average,Good,Good,Poor,Yes,4,2,Yes,Slightly Available,Average,Good,Moderately satisfied,Good,Good,3
+Student support services,Very unlikely,Excellent,Excellent,Good,Excellent,Yes,5,1,Yes,Very Available,Poor,Average,Very satisfied,Excellent,Excellent,5
+Campus facilities,Neutral,Average,Average,Poor,Excellent,No,2,3,No,Slightly Available,Poor,Below Average,Not satisfied,Good,Below Average,4
+Campus facilities,Unlikely,Below Average,Below Average,Excellent,Excellent,Yes,3,3,No,Not Available,Poor,Poor,Very satisfied,Average,Good,1

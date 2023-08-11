@@ -1,0 +1,457 @@
+,area_of_improvement,recommdation_likeliness,communication_availability,online_platform,extracurricular_activities,library_availibility,prompt_feedback,classroom_interaction,course_clarity,student_support_services,academic_advisers,cleanliness,research_resources,accommodation,course_curriculum,teaching_quality,student_satisfaction
+7/13/2023 1:35:22,Campus facilities,Likely,Average,Average,Good,Average,Yes,5,4,No,Moderately Available,Below Average,Average,Moderately satisfied,Good,Good,4
+7/13/2023 1:36:14,Communication and information,Likely,Excellent,Excellent,Good,Excellent,No,4,4,Yes,Moderately Available,Excellent,Excellent,Very satisfied,Excellent,Average,4
+7/13/2023 1:48:13,Student support services,Neutral,Average,Average,Average,Average,No,3,3,No,Moderately Available,Average,Average,Moderately satisfied,Average,Average,3
+7/13/2023 1:50:30,Campus facilities,Very likely,Average,Good,Good,Good,Yes,5,3,Yes,Moderately Available,Good,Good,Very satisfied,Good,Average,4
+7/13/2023 1:51:06,Student support services,Very unlikely,Excellent,Excellent,Poor,Below Average,No,3,3,No,Moderately Available,Good,Excellent,Not satisfied,Below Average,Average,2
+7/13/2023 1:51:43,Other,Likely,Good,Good,Below Average,Excellent,Yes,5,5,Yes,Very Available,Excellent,Good,Not satisfied,Average,Good,4
+7/13/2023 1:53:59,Student support services,Likely,Excellent,Excellent,Average,Good,Yes,4,4,No,Moderately Available,Good,Good,Slightly satisfied,Good,Good,4
+7/13/2023 2:04:07,Communication and information,Neutral,Good,Average,Average,Good,Yes,3,4,No,Moderately Available,Good,Good,Not satisfied,Average,Average,3
+7/13/2023 2:04:34,Academics,Neutral,Good,Excellent,Excellent,Excellent,Yes,3,4,No,Moderately Available,Excellent,Good,Very satisfied,Good,Good,4
+7/13/2023 2:06:41,Academics,Very unlikely,Average,Average,Average,Good,No,3,2,No,Slightly Available,Good,Average,Moderately satisfied,Below Average,Average,2
+7/13/2023 2:24:17,Academics,Very likely,Good,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Good,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/13/2023 2:26:58,Campus facilities,Very likely,Good,Excellent,Good,Excellent,Yes,5,4,Yes,Very Available,Good,Excellent,Moderately satisfied,Good,Good,4
+7/13/2023 2:30:18,Academics,Neutral,Average,Average,Below Average,Average,No,2,3,No,Moderately Available,Average,Average,Moderately satisfied,Average,Average,3
+7/13/2023 2:35:24,Student support services,Neutral,Good,Average,Below Average,Average,No,3,4,Yes,Very Available,Good,Average,Moderately satisfied,Average,Average,2
+7/13/2023 2:39:29,Communication and information,Unlikely,Average,Good,Below Average,Good,Yes,1,3,Yes,Slightly Available,Average,Average,Slightly satisfied,Average,Below Average,2
+7/13/2023 2:41:13,Student support services,Likely,Good,Good,Good,Good,Yes,4,4,No,Moderately Available,Good,Good,Slightly satisfied,Good,Good,4
+7/13/2023 2:53:22,Campus facilities,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Good,Excellent,Very satisfied,Excellent,Excellent,5
+7/13/2023 3:42:10,Academics,Likely,Good,Excellent,Average,Excellent,Yes,3,3,No,Slightly Available,Excellent,Good,Very satisfied,Good,Good,3
+7/13/2023 3:54:04,Academics,Neutral,Excellent,Excellent,Excellent,Excellent,Yes,1,5,No,Moderately Available,Excellent,Excellent,Moderately satisfied,Excellent,Excellent,4
+7/13/2023 4:16:16,Other,Very likely,Excellent,Excellent,Good,Excellent,Yes,5,5,Yes,Very Available,Excellent,Good,Very satisfied,Excellent,Excellent,5
+7/13/2023 4:21:21,Communication and information,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/13/2023 4:22:07,Communication and information,Likely,Average,Good,Good,Excellent,Yes,4,4,No,Moderately Available,Excellent,Good,Extremely satisfied,Good,Excellent,5
+7/13/2023 4:23:06,Other,Neutral,Good,Excellent,Good,Excellent,Yes,3,4,No,Moderately Available,Good,Good,Moderately satisfied,Average,Good,4
+7/13/2023 4:24:03,Academics,Neutral,Good,Good,Average,Good,Yes,4,1,Yes,Moderately Available,Good,Good,Very satisfied,Good,Good,3
+7/13/2023 4:27:47,Student support services,Neutral,Good,Good,Good,Good,Yes,2,2,No,Slightly Available,Average,Average,Moderately satisfied,Average,Average,3
+7/13/2023 4:41:36,Student support services,Likely,Good,Good,Average,Excellent,Yes,4,4,Yes,Moderately Available,Good,Average,Slightly satisfied,Good,Good,3
+7/13/2023 4:47:22,Academics,Very unlikely,Excellent,Good,Good,Good,Yes,5,4,Yes,Very Available,Excellent,Good,Very satisfied,Good,Good,1
+7/13/2023 4:49:57,Academics,Unlikely,Good,Good,Average,Excellent,No,3,2,Yes,Moderately Available,Excellent,Average,Extremely satisfied,Below Average,Below Average,3
+7/13/2023 5:13:48,Student support services,Likely,Good,Excellent,Below Average,Excellent,Yes,2,4,Yes,Moderately Available,Average,Average,Moderately satisfied,Excellent,Good,3
+7/13/2023 5:15:41,Campus facilities,Unlikely,Average,Good,Average,Good,No,3,3,No,Moderately Available,Excellent,Good,Moderately satisfied,Below Average,Average,2
+7/13/2023 5:22:41,Academics,Likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Moderately Available,Excellent,Excellent,Very satisfied,Average,Good,4
+7/13/2023 6:05:06,Student support services,Likely,Excellent,Average,Below Average,Good,Yes,4,5,Yes,Moderately Available,Excellent,Excellent,Extremely satisfied,Good,Good,4
+7/13/2023 6:32:52,Student support services,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,1,1,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,1
+7/13/2023 6:39:41,Student support services,Likely,Excellent,Excellent,Excellent,Excellent,Yes,4,5,Yes,Very Available,Excellent,Excellent,Very satisfied,Excellent,Excellent,4
+7/13/2023 6:45:42,Campus facilities,Very likely,Excellent,Good,Excellent,Excellent,Yes,5,4,Yes,Very Available,Good,Good,Extremely satisfied,Excellent,Excellent,5
+7/13/2023 6:50:25,Student support services,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/13/2023 6:59:05,Student support services,Neutral,Good,Average,Below Average,Good,No,4,3,No,Moderately Available,Good,Average,Slightly satisfied,Good,Average,3
+7/13/2023 7:00:12,Communication and information,Likely,Good,Good,Average,Excellent,Yes,4,5,Yes,Moderately Available,Excellent,Good,Very satisfied,Good,Good,4
+7/13/2023 7:01:27,Student support services,Neutral,Average,Excellent,Below Average,Average,No,3,4,Yes,Very Available,Average,Average,Moderately satisfied,Good,Good,3
+7/13/2023 7:14:04,Communication and information,Likely,Good,Good,Excellent,Excellent,Yes,4,4,Yes,Very Available,Good,Average,Very satisfied,Good,Excellent,4
+7/13/2023 7:20:23,Academics,Very unlikely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/13/2023 7:27:08,Student support services,Unlikely,Poor,Below Average,Poor,Below Average,No,2,3,No,Moderately Available,Excellent,Average,Moderately satisfied,Below Average,Average,3
+7/13/2023 7:30:57,Academics,Neutral,Average,Good,Average,Good,Yes,5,4,No,Moderately Available,Good,Average,Moderately satisfied,Good,Good,4
+7/13/2023 7:39:44,Campus facilities,Likely,Good,Good,Excellent,Excellent,No,5,3,No,Moderately Available,Excellent,Excellent,Moderately satisfied,Good,Excellent,4
+7/13/2023 7:46:51,Student support services,Likely,Excellent,Good,Excellent,Good,Yes,5,5,Yes,Moderately Available,Good,Good,Very satisfied,Good,Excellent,5
+7/13/2023 7:49:04,Academics,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,1,1,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/13/2023 8:01:55,Student support services,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,No,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/13/2023 8:05:40,Student support services,Neutral,Good,Good,Good,Good,Yes,3,4,No,Moderately Available,Good,Good,Moderately satisfied,Good,Good,3
+7/13/2023 8:09:26,Student support services,Likely,Average,Excellent,Average,Excellent,Yes,5,3,No,Moderately Available,Excellent,Excellent,Moderately satisfied,Good,Average,4
+7/13/2023 8:17:51,Student support services,Neutral,Below Average,Excellent,Poor,Average,Yes,2,3,No,Moderately Available,Good,Average,Moderately satisfied,Average,Average,3
+7/13/2023 8:20:05,Other,Neutral,Good,Good,Good,Good,Yes,4,4,Yes,Very Available,Good,Good,Very satisfied,Good,Good,4
+7/13/2023 8:21:29,Other,Likely,Good,Excellent,Good,Good,Yes,3,3,No,Moderately Available,Good,Good,Very satisfied,Good,Average,3
+7/13/2023 8:26:13,Student support services,Very likely,Excellent,Excellent,Excellent,Good,Yes,4,5,Yes,Moderately Available,Good,Excellent,Very satisfied,Good,Good,4
+7/13/2023 8:26:42,Academics,Unlikely,Average,Excellent,Poor,Good,No,2,3,No,Moderately Available,Excellent,Below Average,Very satisfied,Average,Average,3
+7/13/2023 8:38:41,Academics,Neutral,Average,Good,Average,Average,No,4,3,No,Moderately Available,Average,Average,Moderately satisfied,Good,Good,3
+7/13/2023 9:04:09,Academics,Very likely,Excellent,Excellent,Good,Excellent,No,4,4,No,Very Available,Excellent,Excellent,Extremely satisfied,Good,Good,4
+7/13/2023 9:12:26,Student support services,Neutral,Good,Average,Below Average,Average,No,3,3,No,Moderately Available,Excellent,Average,Very satisfied,Average,Good,4
+7/13/2023 9:34:06,Campus facilities,Unlikely,Below Average,Good,Poor,Below Average,No,2,3,No,Slightly Available,Average,Average,Slightly satisfied,Good,Good,3
+7/13/2023 9:41:06,Campus facilities,Likely,Good,Good,Good,Good,Yes,2,4,Yes,Moderately Available,Good,Good,Very satisfied,Good,Good,2
+7/13/2023 9:44:09,Academics,Neutral,Average,Good,Below Average,Below Average,No,3,3,No,Slightly Available,Good,Average,Moderately satisfied,Good,Good,3
+7/13/2023 9:50:54,Campus facilities,Unlikely,Good,Good,Good,Good,No,2,3,Yes,Slightly Available,Excellent,Average,Very satisfied,Good,Below Average,3
+7/13/2023 10:05:25,Communication and information,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/13/2023 10:38:35,Campus facilities,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Very satisfied,Excellent,Excellent,5
+7/13/2023 10:41:26,Academics,Likely,Average,Good,Excellent,Good,Yes,5,4,No,Very Available,Excellent,Excellent,Very satisfied,Good,Good,4
+7/13/2023 10:42:33,Student support services,Likely,Good,Good,Good,Good,No,3,4,No,Moderately Available,Average,Good,Moderately satisfied,Good,Good,3
+7/13/2023 10:44:54,Campus facilities,Likely,Good,Good,Good,Good,Yes,2,4,Yes,Very Available,Good,Good,Very satisfied,Excellent,Good,4
+7/13/2023 10:47:18,Academics,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/13/2023 10:50:01,Student support services,Likely,Good,Excellent,Average,Excellent,Yes,4,5,No,Very Available,Excellent,Excellent,Moderately satisfied,Good,Good,3
+7/13/2023 11:01:37,Campus facilities,Very likely,Average,Good,Excellent,Average,No,5,4,No,Moderately Available,Good,Average,Moderately satisfied,Good,Good,4
+7/13/2023 11:09:28,Academics,Likely,Good,Good,Good,Good,Yes,4,4,Yes,Moderately Available,Good,Good,Very satisfied,Good,Good,4
+7/13/2023 11:16:20,Communication and information,Very likely,Good,Good,Good,Excellent,No,3,3,Yes,Moderately Available,Excellent,Good,Very satisfied,Excellent,Good,5
+7/13/2023 11:27:42,Student support services,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Moderately Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/13/2023 11:43:59,Academics,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,No,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/13/2023 11:45:04,Student support services,Neutral,Below Average,Below Average,Poor,Below Average,No,2,3,No,Moderately Available,Good,Below Average,Moderately satisfied,Average,Good,3
+7/13/2023 11:47:08,Campus facilities,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,1,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/13/2023 11:51:04,Communication and information,Neutral,Below Average,Average,Below Average,Good,No,3,3,No,Not Available,Average,Below Average,Moderately satisfied,Good,Good,3
+7/13/2023 11:51:51,Academics,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/13/2023 11:55:25,Communication and information,Neutral,Below Average,Excellent,Good,Good,No,3,3,No,Moderately Available,Average,Average,Moderately satisfied,Average,Average,3
+7/13/2023 11:57:05,Student support services,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/13/2023 11:57:43,Campus facilities,Likely,Good,Good,Good,Good,Yes,3,3,Yes,Moderately Available,Excellent,Good,Very satisfied,Good,Good,2
+7/13/2023 12:02:38,Academics,Very likely,Good,Excellent,Excellent,Excellent,Yes,4,4,Yes,Very Available,Excellent,Excellent,Very satisfied,Good,Good,4
+7/13/2023 12:10:16,Academics,Neutral,Excellent,Excellent,Good,Excellent,No,3,4,No,Moderately Available,Excellent,Good,Very satisfied,Good,Average,4
+7/13/2023 12:14:48,Communication and information,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,No,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/13/2023 12:17:46,Academics,Neutral,Good,Below Average,Average,Excellent,Yes,3,4,Yes,Very Available,Excellent,Good,Moderately satisfied,Good,Average,3
+7/13/2023 12:22:41,Campus facilities,Neutral,Good,Good,Good,Good,Yes,3,3,No,Moderately Available,Good,Average,Moderately satisfied,Good,Good,3
+7/13/2023 12:27:32,Campus facilities,Neutral,Good,Excellent,Excellent,Average,Yes,3,5,No,Moderately Available,Good,Excellent,Moderately satisfied,Good,Good,4
+7/13/2023 12:49:25,Student support services,Likely,Excellent,Good,Good,Good,Yes,4,4,Yes,Very Available,Excellent,Good,Very satisfied,Excellent,Excellent,4
+7/13/2023 12:55:46,Campus facilities,Very likely,Good,Good,Good,Excellent,Yes,4,4,No,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Good,4
+7/13/2023 12:55:53,Other,Likely,Good,Excellent,Excellent,Good,Yes,4,4,Yes,Moderately Available,Good,Good,Moderately satisfied,Good,Good,4
+7/13/2023 13:34:33,Campus facilities,Likely,Average,Excellent,Good,Excellent,Yes,4,4,No,Moderately Available,Excellent,Good,Extremely satisfied,Good,Average,5
+7/13/2023 13:36:09,Other,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/13/2023 14:18:40,Student support services,Neutral,Average,Average,Average,Average,Yes,3,3,No,Slightly Available,Average,Average,Moderately satisfied,Average,Average,3
+7/13/2023 14:20:15,Other,Very likely,Excellent,Excellent,Excellent,Good,Yes,5,5,No,Very Available,Excellent,Good,Extremely satisfied,Good,Good,5
+7/13/2023 14:20:31,Student support services,Neutral,Average,Average,Good,Good,Yes,3,3,Yes,Moderately Available,Poor,Good,Moderately satisfied,Average,Good,3
+7/13/2023 14:21:03,Campus facilities,Very likely,Average,Poor,Average,Excellent,Yes,3,3,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Average,Good,5
+7/13/2023 14:21:08,Campus facilities,Very likely,Excellent,Good,Excellent,Excellent,Yes,5,5,No,Very Available,Excellent,Good,Very satisfied,Excellent,Good,5
+7/13/2023 14:21:43,Communication and information,Likely,Good,Good,Good,Good,Yes,4,4,No,Very Available,Excellent,Excellent,Moderately satisfied,Good,Good,4
+7/13/2023 14:22:17,Campus facilities,Neutral,Excellent,Good,Average,Average,No,4,3,Yes,Moderately Available,Average,Poor,Moderately satisfied,Good,Excellent,3
+7/13/2023 14:25:12,Other,Likely,Good,Excellent,Good,Excellent,Yes,5,5,Yes,Moderately Available,Excellent,Excellent,Moderately satisfied,Good,Good,4
+7/13/2023 14:26:39,Other,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/13/2023 14:27:31,Communication and information,Likely,Good,Good,Good,Excellent,Yes,5,4,Yes,Very Available,Good,Good,Moderately satisfied,Good,Excellent,3
+7/13/2023 14:28:09,Communication and information,Very likely,Excellent,Good,Excellent,Excellent,Yes,4,5,Yes,Very Available,Excellent,Excellent,Very satisfied,Good,Excellent,5
+7/13/2023 14:30:38,Academics,Very likely,Excellent,Excellent,Good,Excellent,Yes,4,4,No,Moderately Available,Excellent,Average,Extremely satisfied,Good,Good,5
+7/13/2023 14:33:29,Campus facilities,Very likely,Good,Excellent,Excellent,Excellent,Yes,4,4,No,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Good,5
+7/13/2023 14:33:40,Academics,Neutral,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,3
+7/13/2023 14:40:57,Academics,Likely,Good,Good,Good,Excellent,Yes,4,4,Yes,Very Available,Good,Good,Very satisfied,Excellent,Good,4
+7/13/2023 14:41:32,Other,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/13/2023 14:45:38,Student support services,Very likely,Good,Good,Excellent,Good,Yes,4,4,No,Moderately Available,Good,Excellent,Extremely satisfied,Good,Good,4
+7/13/2023 14:48:42,Campus facilities,Very likely,Excellent,Excellent,Good,Good,Yes,1,1,Yes,Very Available,Excellent,Good,Extremely satisfied,Excellent,Good,2
+7/13/2023 14:49:33,Academics,Likely,Good,Average,Good,Good,Yes,3,3,Yes,Moderately Available,Good,Good,Slightly satisfied,Good,Good,3
+7/13/2023 14:49:50,Campus facilities,Likely,Good,Good,Good,Good,Yes,5,5,Yes,Very Available,Good,Good,Very satisfied,Good,Good,5
+7/13/2023 14:52:05,Other,Likely,Good,Average,Good,Excellent,Yes,4,3,Yes,Moderately Available,Good,Good,Moderately satisfied,Average,Good,4
+7/13/2023 15:00:03,Other,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/13/2023 15:06:14,Student support services,Likely,Average,Average,Good,Good,Yes,5,5,Yes,Moderately Available,Good,Excellent,Moderately satisfied,Good,Excellent,3
+7/13/2023 15:08:59,Student support services,Likely,Good,Good,Average,Good,Yes,4,3,Yes,Very Available,Good,Good,Very satisfied,Good,Good,3
+7/13/2023 15:10:02,Academics,Likely,Good,Average,Below Average,Average,Yes,5,5,No,Slightly Available,Good,Good,Moderately satisfied,Good,Excellent,3
+7/13/2023 15:11:43,Campus facilities,Likely,Good,Good,Good,Good,Yes,4,5,Yes,Moderately Available,Good,Good,Moderately satisfied,Excellent,Good,4
+7/13/2023 15:13:44,Student support services,Unlikely,Poor,Average,Poor,Below Average,Yes,1,1,No,Not Available,Below Average,Average,Not satisfied,Below Average,Below Average,1
+7/13/2023 15:19:47,Other,Very likely,Excellent,Average,Good,Excellent,Yes,4,4,Yes,Slightly Available,Excellent,Excellent,Not satisfied,Excellent,Good,4
+7/13/2023 15:22:27,Campus facilities,Very likely,Good,Good,Good,Good,Yes,2,1,Yes,Very Available,Good,Good,Extremely satisfied,Good,Good,3
+7/13/2023 15:23:54,Communication and information,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/13/2023 15:28:10,Other,Likely,Average,Excellent,Excellent,Excellent,No,4,5,Yes,Very Available,Average,Average,Slightly satisfied,Good,Good,3
+7/13/2023 15:48:23,Academics,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/13/2023 16:02:50,Other,Neutral,Average,Average,Average,Average,No,3,3,No,Moderately Available,Average,Average,Moderately satisfied,Excellent,Excellent,3
+7/13/2023 16:06:38,Communication and information,Very likely,Excellent,Good,Good,Good,Yes,4,5,Yes,Very Available,Good,Good,Very satisfied,Good,Good,5
+7/13/2023 16:08:12,Student support services,Likely,Good,Average,Excellent,Excellent,Yes,4,4,Yes,Moderately Available,Good,Good,Very satisfied,Good,Good,4
+7/13/2023 16:10:34,Campus facilities,Likely,Good,Average,Good,Average,Yes,4,4,Yes,Moderately Available,Good,Good,Moderately satisfied,Good,Good,4
+7/13/2023 16:26:53,Student support services,Very likely,Good,Good,Good,Good,No,2,2,Yes,Moderately Available,Good,Good,Not satisfied,Excellent,Excellent,1
+7/13/2023 16:33:06,Campus facilities,Likely,Excellent,Excellent,Excellent,Average,No,4,4,Yes,Slightly Available,Excellent,Excellent,Very satisfied,Good,Good,3
+7/13/2023 16:49:03,Academics,Likely,Average,Good,Poor,Average,Yes,2,3,No,Slightly Available,Good,Average,Extremely satisfied,Good,Good,3
+7/13/2023 16:51:50,Campus facilities,Likely,Excellent,Excellent,Good,Excellent,Yes,4,4,Yes,Moderately Available,Good,Good,Moderately satisfied,Good,Good,4
+7/13/2023 16:52:44,Communication and information,Neutral,Below Average,Good,Good,Excellent,No,4,5,No,Slightly Available,Excellent,Good,Very satisfied,Average,Average,3
+7/13/2023 17:00:23,Other,Likely,Excellent,Excellent,Excellent,Excellent,Yes,4,4,Yes,Very Available,Excellent,Good,Moderately satisfied,Good,Excellent,4
+7/13/2023 17:21:36,Campus facilities,Likely,Good,Good,Excellent,Good,Yes,4,4,Yes,Moderately Available,Excellent,Good,Extremely satisfied,Good,Excellent,4
+7/13/2023 17:36:11,Academics,Very likely,Good,Good,Good,Good,Yes,2,5,Yes,Very Available,Good,Good,Very satisfied,Good,Good,4
+7/13/2023 17:36:43,Academics,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/13/2023 17:47:53,Campus facilities,Likely,Good,Excellent,Good,Excellent,Yes,3,3,Yes,Moderately Available,Excellent,Good,Moderately satisfied,Good,Good,3
+7/13/2023 18:30:14,Student support services,Likely,Good,Good,Excellent,Excellent,Yes,4,4,Yes,Very Available,Excellent,Good,Very satisfied,Good,Good,4
+7/13/2023 18:32:58,Student support services,Likely,Below Average,Excellent,Average,Excellent,Yes,3,4,Yes,Very Available,Excellent,Good,Moderately satisfied,Good,Good,4
+7/13/2023 18:41:08,Other,Very likely,Good,Average,Excellent,Excellent,Yes,4,3,Yes,Very Available,Excellent,Good,Very satisfied,Excellent,Good,5
+7/13/2023 18:50:38,Other,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Good,Excellent,5
+7/13/2023 19:11:32,Student support services,Very likely,Excellent,Good,Excellent,Excellent,Yes,5,4,Yes,Very Available,Excellent,Good,Very satisfied,Excellent,Good,5
+7/13/2023 19:21:25,Student support services,Likely,Good,Good,Excellent,Excellent,No,5,5,No,Moderately Available,Excellent,Excellent,Moderately satisfied,Good,Good,5
+7/13/2023 19:27:22,Student support services,Very likely,Good,Excellent,Average,Average,Yes,4,4,No,Moderately Available,Excellent,Average,Extremely satisfied,Good,Excellent,4
+7/13/2023 19:52:47,Campus facilities,Neutral,Average,Average,Below Average,Below Average,No,2,2,Yes,Slightly Available,Good,Good,Slightly satisfied,Excellent,Excellent,2
+7/13/2023 19:54:19,Other,Very unlikely,Poor,Poor,Poor,Poor,Yes,1,1,No,Not Available,Poor,Poor,Not satisfied,Poor,Poor,1
+7/13/2023 19:55:05,Communication and information,Unlikely,Poor,Poor,Poor,Poor,No,2,2,No,Not Available,Below Average,Good,Moderately satisfied,Average,Below Average,2
+7/13/2023 19:55:46,Academics,Likely,Good,Good,Good,Good,Yes,1,1,Yes,Very Available,Good,Good,Moderately satisfied,Good,Good,1
+7/13/2023 19:55:53,Other,Very unlikely,Poor,Poor,Poor,Poor,No,1,1,No,Not Available,Poor,Poor,Not satisfied,Poor,Poor,1
+7/13/2023 19:56:01,Student support services,Neutral,Below Average,Average,Average,Average,No,4,2,No,Moderately Available,Average,Good,Slightly satisfied,Good,Good,3
+7/13/2023 19:56:05,Campus facilities,Likely,Good,Good,Good,Good,Yes,2,1,No,Not Available,Poor,Good,Not satisfied,Good,Good,1
+7/13/2023 19:56:11,Campus facilities,Likely,Good,Good,Good,Good,Yes,5,5,No,Moderately Available,Average,Excellent,Moderately satisfied,Excellent,Excellent,3
+7/13/2023 19:56:15,Other,Likely,Good,Below Average,Average,Average,No,3,4,No,Slightly Available,Good,Good,Slightly satisfied,Good,Good,3
+7/13/2023 19:56:19,Student support services,Likely,Average,Average,Good,Good,Yes,4,4,No,Slightly Available,Good,Good,Very satisfied,Good,Excellent,3
+7/13/2023 19:56:21,Communication and information,Likely,Below Average,Average,Below Average,Poor,Yes,3,3,No,Slightly Available,Average,Average,Slightly satisfied,Average,Average,2
+7/13/2023 19:56:26,Campus facilities,Neutral,Average,Average,Average,Average,No,3,3,No,Slightly Available,Average,Average,Slightly satisfied,Good,Good,4
+7/13/2023 19:56:32,Other,Likely,Good,Good,Average,Good,Yes,5,5,No,Slightly Available,Good,Average,Slightly satisfied,Good,Excellent,5
+7/13/2023 19:56:58,Academics,Likely,Excellent,Good,Good,Good,Yes,5,2,Yes,Moderately Available,Below Average,Good,Extremely satisfied,Excellent,Good,4
+7/13/2023 19:57:07,Academics,Unlikely,Average,Below Average,Poor,Poor,No,2,1,No,Slightly Available,Poor,Poor,Moderately satisfied,Average,Average,2
+7/13/2023 19:57:20,Communication and information,Likely,Good,Poor,Good,Poor,Yes,4,4,Yes,Slightly Available,Good,Good,Slightly satisfied,Good,Good,4
+7/13/2023 19:57:24,Other,Very likely,Excellent,Below Average,Excellent,Average,Yes,4,3,No,Very Available,Good,Good,Very satisfied,Good,Good,5
+7/13/2023 19:57:45,Other,Very likely,Good,Good,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Good,Very satisfied,Excellent,Excellent,5
+7/13/2023 19:58:03,Academics,Neutral,Good,Good,Good,Good,No,1,1,Yes,Moderately Available,Good,Good,Extremely satisfied,Good,Good,1
+7/13/2023 19:58:46,Other,Very unlikely,Poor,Poor,Poor,Poor,No,5,1,No,Not Available,Poor,Poor,Not satisfied,Poor,Poor,1
+7/13/2023 19:58:47,Other,Neutral,Average,Average,Good,Good,Yes,3,3,No,Not Available,Average,Average,Not satisfied,Average,Average,3
+7/13/2023 19:58:58,Other,Neutral,Average,Good,Average,Below Average,Yes,2,3,Yes,Not Available,Good,Good,Very satisfied,Good,Average,3
+7/13/2023 19:59:05,Other,Likely,Excellent,Good,Excellent,Good,No,4,4,No,Moderately Available,Below Average,Good,Moderately satisfied,Excellent,Good,4
+7/13/2023 19:59:09,Student support services,Very unlikely,Poor,Excellent,Poor,Excellent,Yes,5,3,No,Not Available,Poor,Poor,Slightly satisfied,Excellent,Excellent,3
+7/13/2023 19:59:27,Campus facilities,Likely,Good,Good,Good,Poor,Yes,5,3,Yes,Very Available,Below Average,Good,Moderately satisfied,Excellent,Good,2
+7/13/2023 19:59:29,Communication and information,Very unlikely,Below Average,Below Average,Average,Poor,No,4,3,No,Not Available,Below Average,Below Average,Slightly satisfied,Average,Average,4
+7/13/2023 19:59:45,Other,Neutral,Average,Average,Average,Average,Yes,3,3,No,Not Available,Average,Average,Not satisfied,Average,Average,3
+7/13/2023 19:59:47,Student support services,Very likely,Good,Good,Excellent,Good,Yes,2,5,Yes,Moderately Available,Average,Good,Not satisfied,Average,Good,2
+7/13/2023 19:59:54,Student support services,Very likely,Below Average,Below Average,Poor,Poor,No,4,2,No,Not Available,Poor,Good,Not satisfied,Good,Average,3
+7/13/2023 20:00:28,Campus facilities,Likely,Average,Poor,Average,Poor,Yes,1,3,No,Moderately Available,Average,Good,Moderately satisfied,Average,Good,3
+7/13/2023 20:00:31,Communication and information,Likely,Good,Good,Good,Excellent,Yes,1,1,Yes,Moderately Available,Good,Good,Very satisfied,Good,Good,2
+7/13/2023 20:00:57,Student support services,Likely,Average,Below Average,Excellent,Average,Yes,3,2,No,Slightly Available,Excellent,Good,Not satisfied,Excellent,Good,1
+7/13/2023 20:00:58,Student support services,Likely,Average,Average,Good,Average,No,3,3,No,Very Available,Average,Average,Moderately satisfied,Good,Good,3
+7/13/2023 20:01:02,Student support services,Likely,Average,Average,Good,Average,Yes,3,4,Yes,Moderately Available,Average,Good,Very satisfied,Average,Good,3
+7/13/2023 20:01:32,Academics,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/13/2023 20:01:40,Student support services,Likely,Good,Good,Good,Good,Yes,5,4,Yes,Slightly Available,Good,Good,Slightly satisfied,Good,Good,3
+7/13/2023 20:01:50,Student support services,Likely,Poor,Poor,Poor,Poor,No,1,1,No,Not Available,Excellent,Poor,Not satisfied,Below Average,Poor,3
+7/13/2023 20:02:01,Student support services,Likely,Average,Poor,Average,Poor,Yes,2,2,No,Moderately Available,Poor,Average,Moderately satisfied,Good,Excellent,2
+7/13/2023 20:03:03,Academics,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,1,1,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,1
+7/13/2023 20:03:42,Campus facilities,Likely,Good,Good,Average,Good,No,4,3,Yes,Moderately Available,Good,Excellent,Extremely satisfied,Good,Good,5
+7/13/2023 20:03:52,Communication and information,Neutral,Below Average,Poor,Good,Poor,Yes,3,5,No,Not Available,Poor,Average,Not satisfied,Average,Average,2
+7/13/2023 20:04:05,Academics,Neutral,Average,Good,Average,Poor,Yes,3,1,No,Slightly Available,Poor,Average,Slightly satisfied,Average,Excellent,3
+7/13/2023 20:04:29,Other,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/13/2023 20:05:00,Other,Likely,Average,Good,Below Average,Good,Yes,3,4,No,Moderately Available,Average,Good,Very satisfied,Good,Good,3
+7/13/2023 20:05:49,Communication and information,Likely,Good,Average,Average,Average,Yes,2,2,No,Slightly Available,Average,Average,Moderately satisfied,Good,Good,2
+7/13/2023 20:05:54,Student support services,Very likely,Good,Average,Good,Good,Yes,4,4,Yes,Very Available,Good,Good,Very satisfied,Good,Good,5
+7/13/2023 20:06:03,Academics,Neutral,Average,Average,Good,Poor,Yes,3,3,No,Moderately Available,Average,Average,Moderately satisfied,Average,Average,3
+7/13/2023 20:06:51,Student support services,Unlikely,Poor,Poor,Poor,Poor,No,2,2,No,Not Available,Average,Average,Slightly satisfied,Average,Average,2
+7/13/2023 20:07:31,Other,Very unlikely,Average,Poor,Poor,Poor,No,1,3,No,Not Available,Good,Good,Not satisfied,Average,Below Average,5
+7/13/2023 20:10:37,Campus facilities,Likely,Average,Average,Good,Average,Yes,5,3,No,Moderately Available,Good,Excellent,Moderately satisfied,Good,Good,3
+7/13/2023 20:11:29,Other,Unlikely,Good,Good,Good,Good,No,5,2,No,Moderately Available,Good,Good,Slightly satisfied,Good,Poor,3
+7/13/2023 20:14:33,Campus facilities,Neutral,Good,Average,Good,Average,Yes,3,3,No,Slightly Available,Below Average,Average,Slightly satisfied,Good,Good,3
+7/13/2023 20:14:42,Campus facilities,Very likely,Excellent,Good,Below Average,Poor,No,3,3,No,Slightly Available,Below Average,Below Average,Not satisfied,Average,Good,1
+7/13/2023 20:15:30,Academics,Likely,Good,Good,Good,Good,Yes,5,5,Yes,Very Available,Good,Good,Very satisfied,Good,Good,5
+7/13/2023 20:16:04,Campus facilities,Very unlikely,Poor,Poor,Average,Poor,Yes,1,1,No,Not Available,Poor,Below Average,Slightly satisfied,Below Average,Below Average,1
+7/13/2023 20:18:30,Other,Neutral,Good,Good,Good,Good,Yes,5,5,No,Very Available,Good,Good,Very satisfied,Good,Good,5
+7/13/2023 20:19:16,Campus facilities,Neutral,Average,Average,Average,Average,Yes,3,1,Yes,Slightly Available,Average,Average,Not satisfied,Average,Average,3
+7/13/2023 20:19:40,Campus facilities,Neutral,Good,Good,Poor,Below Average,Yes,5,4,No,Moderately Available,Good,Good,Very satisfied,Average,Average,4
+7/13/2023 20:19:42,Campus facilities,Likely,Good,Good,Below Average,Poor,Yes,4,1,Yes,Moderately Available,Average,Good,Not satisfied,Average,Good,3
+7/13/2023 20:20:13,Student support services,Neutral,Average,Good,Excellent,Good,Yes,4,4,No,Moderately Available,Average,Good,Moderately satisfied,Good,Good,2
+7/13/2023 20:20:14,Academics,Likely,Average,Good,Excellent,Below Average,Yes,4,4,Yes,Moderately Available,Below Average,Average,Moderately satisfied,Good,Excellent,4
+7/13/2023 20:20:27,Student support services,Neutral,Average,Below Average,Average,Average,No,3,2,No,Moderately Available,Below Average,Good,Moderately satisfied,Good,Good,4
+7/13/2023 20:21:25,Student support services,Neutral,Good,Average,Good,Average,No,2,5,No,Moderately Available,Poor,Good,Slightly satisfied,Excellent,Excellent,5
+7/13/2023 20:23:41,Academics,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,1,1,Yes,Very Available,Excellent,Excellent,Very satisfied,Excellent,Excellent,1
+7/13/2023 20:24:11,Academics,Likely,Good,Good,Good,Good,Yes,5,4,No,Moderately Available,Good,Good,Very satisfied,Good,Excellent,2
+7/13/2023 20:24:45,Campus facilities,Likely,Good,Excellent,Good,Good,No,2,1,No,Very Available,Average,Good,Very satisfied,Excellent,Good,4
+7/13/2023 20:25:12,Campus facilities,Likely,Average,Average,Good,Good,Yes,3,3,No,Moderately Available,Good,Average,Slightly satisfied,Average,Good,3
+7/13/2023 20:26:13,Student support services,Likely,Good,Good,Good,Good,Yes,5,5,Yes,Very Available,Good,Good,Very satisfied,Good,Good,5
+7/13/2023 20:26:17,Academics,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Moderately Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/13/2023 20:33:23,Other,Likely,Good,Good,Excellent,Good,Yes,4,4,Yes,Very Available,Good,Excellent,Moderately satisfied,Good,Good,4
+7/13/2023 20:34:25,Communication and information,Neutral,Good,Good,Good,Good,Yes,3,3,Yes,Very Available,Excellent,Good,Very satisfied,Good,Good,3
+7/13/2023 20:34:55,Campus facilities,Likely,Average,Average,Below Average,Good,Yes,4,4,No,Moderately Available,Below Average,Average,Moderately satisfied,Good,Good,4
+7/13/2023 20:35:58,Campus facilities,Likely,Good,Good,Average,Average,Yes,2,2,No,Moderately Available,Good,Good,Very satisfied,Excellent,Excellent,2
+7/13/2023 20:36:48,Student support services,Likely,Good,Good,Good,Average,Yes,4,3,Yes,Moderately Available,Below Average,Good,Moderately satisfied,Average,Average,3
+7/13/2023 20:36:56,Campus facilities,Neutral,Average,Below Average,Average,Below Average,Yes,3,3,No,Slightly Available,Below Average,Below Average,Moderately satisfied,Good,Good,3
+7/13/2023 20:37:23,Student support services,Likely,Average,Average,Average,Good,Yes,3,1,Yes,Moderately Available,Good,Average,Very satisfied,Good,Average,2
+7/13/2023 20:39:39,Other,Unlikely,Average,Average,Good,Poor,Yes,3,3,No,Slightly Available,Average,Below Average,Not satisfied,Poor,Average,4
+7/13/2023 20:40:08,Academics,Very likely,Excellent,Good,Good,Excellent,No,5,3,No,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/13/2023 20:40:17,Student support services,Neutral,Below Average,Below Average,Below Average,Poor,Yes,2,3,No,Not Available,Good,Below Average,Moderately satisfied,Good,Average,2
+7/13/2023 20:43:09,Campus facilities,Likely,Average,Below Average,Average,Average,Yes,2,3,No,Moderately Available,Poor,Average,Moderately satisfied,Good,Good,3
+7/13/2023 20:43:19,Campus facilities,Very likely,Excellent,Good,Excellent,Average,Yes,5,5,No,Slightly Available,Excellent,Average,Extremely satisfied,Excellent,Good,5
+7/13/2023 20:44:23,Campus facilities,Very unlikely,Poor,Poor,Poor,Poor,No,1,1,Yes,Not Available,Poor,Poor,Not satisfied,Poor,Poor,1
+7/13/2023 20:48:22,Other,Very likely,Excellent,Excellent,Good,Good,Yes,1,1,Yes,Moderately Available,Excellent,Excellent,Extremely satisfied,Good,Excellent,1
+7/13/2023 20:48:29,Other,Very likely,Excellent,Good,Good,Excellent,Yes,1,1,Yes,Moderately Available,Good,Excellent,Extremely satisfied,Good,Excellent,1
+7/13/2023 20:51:36,Student support services,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/13/2023 20:52:12,Other,Neutral,Average,Below Average,Good,Average,Yes,4,3,No,Not Available,Below Average,Average,Slightly satisfied,Good,Good,4
+7/13/2023 20:52:18,Communication and information,Neutral,Average,Excellent,Excellent,Good,Yes,5,3,No,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,4
+7/13/2023 20:55:24,Student support services,Very unlikely,Poor,Poor,Below Average,Poor,Yes,3,1,No,Not Available,Poor,Poor,Not satisfied,Average,Below Average,1
+7/13/2023 20:56:13,Other,Neutral,Average,Average,Poor,Average,No,5,5,Yes,Slightly Available,Below Average,Poor,Very satisfied,Excellent,Good,2
+7/13/2023 21:05:02,Campus facilities,Neutral,Poor,Average,Poor,Poor,No,3,5,No,Not Available,Poor,Below Average,Slightly satisfied,Below Average,Average,1
+7/13/2023 21:05:04,Other,Likely,Average,Below Average,Average,Average,No,3,3,No,Moderately Available,Good,Average,Slightly satisfied,Good,Good,3
+7/13/2023 21:05:58,Academics,Neutral,Excellent,Excellent,Excellent,Good,Yes,5,2,Yes,Very Available,Good,Excellent,Very satisfied,Good,Good,2
+7/13/2023 21:16:37,Campus facilities,Likely,Good,Average,Average,Excellent,Yes,2,1,No,Very Available,Good,Good,Very satisfied,Good,Good,2
+7/13/2023 21:17:51,Communication and information,Neutral,Poor,Average,Poor,Below Average,Yes,3,3,No,Slightly Available,Poor,Average,Slightly satisfied,Average,Average,4
+7/13/2023 21:19:29,Campus facilities,Unlikely,Below Average,Average,Below Average,Poor,No,3,4,No,Slightly Available,Poor,Good,Moderately satisfied,Poor,Good,4
+7/13/2023 21:21:16,Academics,Likely,Excellent,Excellent,Good,Excellent,Yes,4,4,No,Moderately Available,Excellent,Good,Extremely satisfied,Good,Good,4
+7/13/2023 21:22:23,Campus facilities,Unlikely,Below Average,Poor,Poor,Good,No,1,2,No,Not Available,Poor,Poor,Slightly satisfied,Poor,Below Average,1
+7/13/2023 21:23:18,Campus facilities,Unlikely,Poor,Poor,Poor,Poor,No,1,1,No,Not Available,Poor,Poor,Not satisfied,Poor,Poor,1
+7/13/2023 21:23:34,Academics,Likely,Good,Average,Average,Below Average,Yes,2,3,Yes,Very Available,Poor,Excellent,Very satisfied,Good,Good,3
+7/13/2023 21:25:46,Student support services,Very likely,Excellent,Good,Excellent,Good,Yes,1,3,Yes,Not Available,Good,Good,Very satisfied,Good,Excellent,5
+7/13/2023 21:30:31,Campus facilities,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/13/2023 21:31:54,Campus facilities,Likely,Average,Below Average,Average,Poor,Yes,2,3,No,Moderately Available,Average,Average,Slightly satisfied,Average,Good,3
+7/13/2023 21:43:44,Academics,Likely,Excellent,Good,Good,Good,Yes,5,4,No,Moderately Available,Average,Good,Moderately satisfied,Good,Good,5
+7/13/2023 21:45:07,Other,Likely,Excellent,Excellent,Excellent,Average,Yes,3,1,Yes,Very Available,Good,Good,Very satisfied,Good,Good,2
+7/13/2023 21:45:17,Other,Likely,Excellent,Excellent,Excellent,Average,Yes,3,1,Yes,Very Available,Good,Good,Very satisfied,Good,Good,2
+7/13/2023 21:47:43,Other,Likely,Good,Good,Good,Good,Yes,2,2,Yes,Moderately Available,Good,Good,Very satisfied,Good,Good,2
+7/13/2023 21:54:03,Campus facilities,Likely,Good,Good,Good,Good,Yes,3,3,Yes,Very Available,Good,Good,Moderately satisfied,Good,Good,3
+7/13/2023 21:54:53,Campus facilities,Neutral,Average,Good,Average,Good,Yes,4,4,Yes,Moderately Available,Average,Good,Extremely satisfied,Good,Good,4
+7/13/2023 21:57:09,Communication and information,Likely,Average,Good,Good,Good,Yes,4,5,No,Moderately Available,Good,Good,Slightly satisfied,Good,Good,4
+7/13/2023 22:02:13,Communication and information,Neutral,Average,Average,Below Average,Poor,Yes,3,3,No,Not Available,Poor,Poor,Slightly satisfied,Below Average,Average,3
+7/13/2023 22:05:23,Communication and information,Very likely,Good,Good,Excellent,Good,Yes,5,3,Yes,Very Available,Good,Good,Very satisfied,Good,Excellent,4
+7/13/2023 22:08:25,Campus facilities,Neutral,Average,Below Average,Average,Below Average,Yes,3,2,No,Very Available,Below Average,Average,Moderately satisfied,Good,Average,3
+7/13/2023 22:08:58,Campus facilities,Very unlikely,Poor,Average,Average,Average,No,2,2,No,Not Available,Poor,Average,Not satisfied,Average,Average,1
+7/13/2023 22:09:01,Academics,Likely,Good,Excellent,Good,Average,No,1,1,Yes,Very Available,Good,Excellent,Very satisfied,Good,Good,1
+7/13/2023 22:09:08,Student support services,Likely,Poor,Good,Average,Good,Yes,3,3,Yes,Slightly Available,Good,Average,Slightly satisfied,Good,Good,3
+7/13/2023 22:09:27,Academics,Likely,Good,Average,Good,Good,Yes,4,3,Yes,Very Available,Excellent,Average,Moderately satisfied,Good,Excellent,5
+7/13/2023 22:09:42,Campus facilities,Neutral,Poor,Below Average,Poor,Below Average,No,1,1,No,Not Available,Poor,Poor,Not satisfied,Below Average,Below Average,1
+7/13/2023 22:10:02,Communication and information,Neutral,Below Average,Average,Good,Poor,No,1,5,Yes,Not Available,Good,Average,Slightly satisfied,Poor,Below Average,1
+7/13/2023 22:10:14,Student support services,Neutral,Excellent,Excellent,Excellent,Excellent,Yes,1,1,Yes,Very Available,Excellent,Excellent,Very satisfied,Excellent,Excellent,1
+7/13/2023 22:10:28,Academics,Very likely,Below Average,Excellent,Excellent,Excellent,Yes,1,1,Yes,Very Available,Excellent,Good,Extremely satisfied,Excellent,Excellent,1
+7/13/2023 22:10:30,Student support services,Very likely,Good,Poor,Good,Below Average,Yes,5,3,Yes,Not Available,Good,Good,Very satisfied,Poor,Good,5
+7/13/2023 22:10:37,Other,Likely,Good,Good,Good,Good,Yes,4,4,No,Moderately Available,Good,Good,Very satisfied,Excellent,Good,4
+7/13/2023 22:11:16,Academics,Very likely,Good,Excellent,Good,Excellent,Yes,1,1,Yes,Very Available,Good,Good,Very satisfied,Excellent,Excellent,1
+7/13/2023 22:11:30,Academics,Likely,Average,Average,Good,Good,Yes,3,2,Yes,Slightly Available,Good,Good,Very satisfied,Below Average,Average,3
+7/13/2023 22:13:03,Student support services,Likely,Average,Poor,Excellent,Excellent,No,3,3,Yes,Moderately Available,Below Average,Poor,Very satisfied,Below Average,Good,4
+7/13/2023 22:13:23,Other,Neutral,Average,Good,Good,Good,No,3,3,Yes,Moderately Available,Average,Good,Very satisfied,Good,Good,4
+7/13/2023 22:13:36,Campus facilities,Very likely,Good,Good,Excellent,Excellent,Yes,5,5,Yes,Very Available,Good,Excellent,Very satisfied,Excellent,Excellent,5
+7/13/2023 22:14:44,Campus facilities,Likely,Average,Average,Average,Below Average,Yes,3,4,Yes,Moderately Available,Good,Good,Moderately satisfied,Good,Good,4
+7/13/2023 22:15:23,Communication and information,Very likely,Average,Good,Poor,Excellent,Yes,5,5,Yes,Moderately Available,Average,Average,Very satisfied,Excellent,Good,3
+7/13/2023 22:15:58,Academics,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,1,1,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,1
+7/13/2023 22:16:52,Academics,Unlikely,Good,Poor,Below Average,Good,Yes,3,3,No,Moderately Available,Poor,Average,Moderately satisfied,Average,Average,1
+7/13/2023 22:17:09,Academics,Very likely,Good,Good,Good,Excellent,Yes,2,1,Yes,Very Available,Good,Good,Very satisfied,Good,Excellent,5
+7/13/2023 22:20:25,Student support services,Very likely,Excellent,Good,Excellent,Excellent,Yes,2,3,Yes,Moderately Available,Excellent,Excellent,Slightly satisfied,Excellent,Good,3
+7/13/2023 22:23:40,Student support services,Likely,Good,Poor,Poor,Good,Yes,3,4,Yes,Slightly Available,Good,Poor,Very satisfied,Good,Good,3
+7/13/2023 22:23:43,Academics,Very likely,Good,Good,Good,Excellent,Yes,2,2,Yes,Very Available,Excellent,Average,Extremely satisfied,Good,Excellent,5
+7/13/2023 22:25:09,Other,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Good,Excellent,5
+7/13/2023 22:26:46,Campus facilities,Very unlikely,Poor,Poor,Poor,Poor,No,3,2,No,Slightly Available,Poor,Poor,Slightly satisfied,Below Average,Average,1
+7/13/2023 22:27:41,Communication and information,Likely,Good,Average,Excellent,Excellent,Yes,5,5,Yes,Very Available,Good,Good,Very satisfied,Good,Excellent,5
+7/13/2023 22:27:58,Academics,Likely,Average,Good,Excellent,Good,Yes,2,2,Yes,Moderately Available,Good,Good,Very satisfied,Good,Good,3
+7/13/2023 22:28:16,Campus facilities,Very unlikely,Below Average,Poor,Below Average,Below Average,No,2,3,No,Not Available,Poor,Average,Not satisfied,Average,Average,1
+7/13/2023 22:28:40,Student support services,Likely,Poor,Poor,Good,Good,No,2,2,Yes,Slightly Available,Poor,Good,Slightly satisfied,Good,Good,3
+7/13/2023 22:30:01,Campus facilities,Neutral,Average,Average,Poor,Below Average,No,3,2,No,Slightly Available,Below Average,Good,Moderately satisfied,Good,Good,3
+7/13/2023 22:30:01,Campus facilities,Likely,Good,Good,Good,Good,Yes,4,4,Yes,Very Available,Excellent,Good,Very satisfied,Good,Excellent,5
+7/13/2023 22:30:43,Other,Likely,Good,Average,Average,Good,No,4,5,No,Very Available,Average,Good,Moderately satisfied,Good,Excellent,2
+7/13/2023 22:30:57,Academics,Likely,Average,Poor,Below Average,Poor,No,1,1,Yes,Not Available,Good,Poor,Moderately satisfied,Poor,Poor,1
+7/13/2023 22:31:05,Student support services,Likely,Good,Excellent,Average,Good,No,5,5,No,Very Available,Average,Good,Slightly satisfied,Excellent,Excellent,1
+7/13/2023 22:33:22,Student support services,Likely,Excellent,Excellent,Average,Excellent,No,4,5,No,Very Available,Excellent,Good,Slightly satisfied,Excellent,Excellent,1
+7/13/2023 22:35:24,Campus facilities,Neutral,Below Average,Average,Average,Average,Yes,4,4,No,Slightly Available,Average,Average,Moderately satisfied,Average,Average,3
+7/13/2023 22:35:30,Student support services,Neutral,Poor,Average,Poor,Good,No,2,3,Yes,Moderately Available,Excellent,Poor,Not satisfied,Good,Good,3
+7/13/2023 22:36:21,Campus facilities,Neutral,Below Average,Good,Below Average,Below Average,No,4,3,No,Slightly Available,Below Average,Average,Moderately satisfied,Average,Average,3
+7/13/2023 22:36:48,Academics,Likely,Good,Average,Good,Average,No,4,3,No,Slightly Available,Good,Good,Slightly satisfied,Excellent,Excellent,5
+7/13/2023 22:37:21,Academics,Likely,Average,Good,Good,Poor,Yes,4,2,Yes,Slightly Available,Average,Good,Moderately satisfied,Good,Good,3
+7/13/2023 22:38:34,Student support services,Very unlikely,Excellent,Excellent,Good,Excellent,Yes,5,1,Yes,Very Available,Poor,Average,Very satisfied,Excellent,Excellent,5
+7/13/2023 22:40:39,Campus facilities,Neutral,Average,Average,Poor,Excellent,No,2,3,No,Slightly Available,Poor,Below Average,Not satisfied,Good,Below Average,4
+7/13/2023 22:41:53,Campus facilities,Unlikely,Below Average,Below Average,Excellent,Excellent,Yes,3,3,No,Not Available,Poor,Poor,Very satisfied,Average,Good,1
+7/13/2023 22:42:49,Academics,Likely,Average,Good,Good,Poor,Yes,4,2,Yes,Slightly Available,Average,Good,Moderately satisfied,Good,Good,4
+7/13/2023 22:44:53,Campus facilities,Very likely,Excellent,Excellent,Excellent,Excellent,No,2,1,Yes,Very Available,Excellent,Excellent,Very satisfied,Excellent,Excellent,1
+7/13/2023 22:45:20,Student support services,Likely,Good,Good,Good,Average,Yes,4,3,Yes,Slightly Available,Average,Good,Moderately satisfied,Good,Good,4
+7/13/2023 22:45:31,Student support services,Likely,Excellent,Excellent,Excellent,Excellent,Yes,3,3,Yes,Moderately Available,Good,Below Average,Moderately satisfied,Good,Average,2
+7/13/2023 22:46:29,Academics,Likely,Average,Good,Good,Poor,Yes,4,2,Yes,Slightly Available,Average,Good,Moderately satisfied,Good,Good,4
+7/13/2023 22:47:06,Communication and information,Likely,Good,Excellent,Below Average,Average,No,3,2,No,Moderately Available,Good,Good,Extremely satisfied,Good,Good,5
+7/13/2023 22:47:38,Campus facilities,Neutral,Average,Average,Average,Average,No,3,2,No,Moderately Available,Average,Good,Slightly satisfied,Good,Good,2
+7/13/2023 22:48:37,Student support services,Likely,Good,Good,Average,Below Average,No,2,5,Yes,Not Available,Excellent,Below Average,Very satisfied,Good,Below Average,1
+7/13/2023 22:48:49,Academics,Very likely,Average,Good,Good,Good,No,4,4,No,Very Available,Good,Good,Moderately satisfied,Excellent,Good,4
+7/13/2023 22:49:11,Academics,Likely,Excellent,Good,Average,Good,Yes,1,5,Yes,Very Available,Poor,Good,Very satisfied,Good,Good,5
+7/13/2023 22:54:13,Communication and information,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/13/2023 22:59:10,Student support services,Unlikely,Average,Average,Average,Average,No,2,3,No,Slightly Available,Average,Average,Slightly satisfied,Average,Average,3
+7/13/2023 23:00:57,Campus facilities,Neutral,Poor,Poor,Poor,Poor,Yes,4,5,No,Slightly Available,Poor,Poor,Slightly satisfied,Average,Average,4
+7/13/2023 23:04:49,Student support services,Neutral,Average,Good,Average,Average,No,3,3,Yes,Slightly Available,Good,Average,Very satisfied,Good,Good,3
+7/13/2023 23:07:49,Academics,Likely,Good,Good,Average,Average,Yes,4,4,Yes,Moderately Available,Below Average,Excellent,Very satisfied,Good,Good,2
+7/13/2023 23:08:49,Student support services,Very likely,Good,Average,Poor,Good,Yes,3,3,No,Very Available,Excellent,Average,Very satisfied,Good,Excellent,2
+7/13/2023 23:09:25,Campus facilities,Likely,Good,Good,Below Average,Poor,No,4,5,No,Very Available,Poor,Below Average,Moderately satisfied,Excellent,Good,3
+7/13/2023 23:10:49,Other,Unlikely,Poor,Poor,Average,Poor,Yes,1,2,No,Not Available,Poor,Poor,Not satisfied,Below Average,Poor,1
+7/13/2023 23:12:35,Campus facilities,Neutral,Average,Average,Good,Average,Yes,3,3,Yes,Slightly Available,Poor,Average,Moderately satisfied,Good,Average,3
+7/13/2023 23:20:11,Student support services,Neutral,Average,Average,Good,Excellent,No,3,2,Yes,Slightly Available,Good,Average,Very satisfied,Average,Good,3
+7/13/2023 23:21:04,Campus facilities,Very likely,Good,Good,Excellent,Below Average,Yes,5,5,Yes,Very Available,Good,Average,Moderately satisfied,Excellent,Good,5
+7/13/2023 23:26:14,Campus facilities,Likely,Good,Average,Poor,Average,No,3,3,Yes,Moderately Available,Good,Average,Very satisfied,Poor,Poor,2
+7/13/2023 23:49:55,Academics,Likely,Good,Excellent,Good,Excellent,Yes,1,2,Yes,Very Available,Good,Excellent,Very satisfied,Good,Good,1
+7/13/2023 23:50:03,Communication and information,Likely,Average,Average,Below Average,Below Average,Yes,3,4,Yes,Moderately Available,Good,Average,Moderately satisfied,Good,Below Average,3
+7/13/2023 23:50:43,Academics,Likely,Good,Good,Excellent,Average,Yes,1,1,Yes,Very Available,Good,Good,Very satisfied,Excellent,Excellent,1
+7/13/2023 23:59:58,Academics,Likely,Excellent,Good,Excellent,Good,No,5,5,Yes,Very Available,Good,Good,Extremely satisfied,Excellent,Good,5
+7/14/2023 0:05:01,Student support services,Very likely,Excellent,Excellent,Excellent,Excellent,No,5,5,No,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/14/2023 0:09:21,Communication and information,Likely,Average,Excellent,Average,Good,No,4,5,No,Moderately Available,Good,Good,Very satisfied,Good,Good,4
+7/14/2023 0:10:20,Student support services,Very unlikely,Poor,Poor,Average,Poor,No,1,1,No,Not Available,Poor,Average,Not satisfied,Poor,Poor,5
+7/14/2023 0:12:27,Academics,Very likely,Excellent,Excellent,Excellent,Excellent,No,5,1,No,Very Available,Excellent,Poor,Extremely satisfied,Excellent,Excellent,3
+7/14/2023 1:24:37,Other,Very likely,Good,Excellent,Excellent,Good,Yes,5,5,Yes,Moderately Available,Good,Excellent,Very satisfied,Good,Excellent,5
+7/14/2023 1:48:59,Student support services,Likely,Good,Good,Good,Good,No,5,5,Yes,Very Available,Average,Good,Moderately satisfied,Good,Good,5
+7/14/2023 2:08:00,Academics,Likely,Average,Good,Good,Excellent,No,3,3,No,Moderately Available,Good,Good,Moderately satisfied,Good,Good,4
+7/14/2023 3:18:20,Campus facilities,Unlikely,Below Average,Good,Average,Good,Yes,1,3,No,Slightly Available,Excellent,Average,Moderately satisfied,Average,Average,3
+7/14/2023 4:29:20,Student support services,Neutral,Below Average,Good,Good,Good,Yes,3,3,No,Slightly Available,Average,Average,Slightly satisfied,Good,Good,4
+7/14/2023 5:20:32,Other,Very unlikely,Poor,Poor,Poor,Poor,No,5,5,No,Not Available,Poor,Poor,Not satisfied,Poor,Poor,5
+7/14/2023 5:22:35,Other,Likely,Good,Excellent,Good,Excellent,Yes,3,5,No,Very Available,Good,Excellent,Moderately satisfied,Good,Excellent,4
+7/14/2023 5:31:07,Campus facilities,Very likely,Good,Good,Below Average,Excellent,Yes,5,4,Yes,Slightly Available,Poor,Good,Slightly satisfied,Good,Excellent,5
+7/14/2023 5:31:27,Other,Likely,Good,Excellent,Average,Excellent,Yes,4,4,No,Very Available,Good,Good,Very satisfied,Good,Excellent,4
+7/14/2023 5:34:16,Campus facilities,Likely,Average,Average,Good,Average,No,3,3,Yes,Slightly Available,Good,Good,Moderately satisfied,Average,Average,4
+7/14/2023 5:53:46,Academics,Likely,Excellent,Good,Excellent,Excellent,Yes,5,5,Yes,Very Available,Good,Excellent,Very satisfied,Excellent,Good,5
+7/14/2023 6:12:07,Academics,Likely,Good,Average,Good,Good,No,1,2,No,Moderately Available,Good,Excellent,Moderately satisfied,Good,Excellent,2
+7/14/2023 6:18:14,Student support services,Likely,Good,Average,Excellent,Good,Yes,5,3,Yes,Slightly Available,Excellent,Good,Very satisfied,Good,Good,4
+7/14/2023 6:27:45,Other,Likely,Good,Good,Excellent,Excellent,Yes,5,5,No,Very Available,Poor,Good,Extremely satisfied,Excellent,Excellent,4
+7/14/2023 6:32:59,Academics,Neutral,Good,Average,Excellent,Good,No,1,4,Yes,Moderately Available,Excellent,Good,Very satisfied,Good,Good,2
+7/14/2023 6:34:25,Campus facilities,Neutral,Average,Good,Below Average,Below Average,No,3,2,Yes,Moderately Available,Below Average,Below Average,Slightly satisfied,Average,Average,3
+7/14/2023 6:35:15,Student support services,Neutral,Good,Good,Good,Good,No,1,1,Yes,Moderately Available,Good,Good,Moderately satisfied,Good,Good,1
+7/14/2023 6:37:47,Academics,Likely,Good,Good,Below Average,Excellent,Yes,2,3,No,Slightly Available,Good,Excellent,Not satisfied,Good,Average,4
+7/14/2023 6:46:28,Campus facilities,Neutral,Excellent,Below Average,Good,Average,Yes,4,4,Yes,Slightly Available,Average,Average,Moderately satisfied,Good,Good,4
+7/14/2023 6:46:30,Communication and information,Neutral,Average,Good,Average,Below Average,No,4,3,No,Slightly Available,Average,Average,Slightly satisfied,Good,Good,3
+7/14/2023 6:56:51,Student support services,Likely,Good,Below Average,Excellent,Average,Yes,4,3,No,Slightly Available,Below Average,Poor,Very satisfied,Excellent,Good,3
+7/14/2023 6:57:27,Academics,Very likely,Excellent,Average,Good,Good,Yes,1,2,Yes,Very Available,Good,Excellent,Very satisfied,Good,Excellent,1
+7/14/2023 7:01:43,Student support services,Very likely,Good,Good,Excellent,Good,No,5,1,No,Very Available,Excellent,Good,Extremely satisfied,Good,Excellent,1
+7/14/2023 7:04:07,Other,Likely,Average,Average,Average,Good,Yes,3,3,Yes,Slightly Available,Good,Poor,Moderately satisfied,Average,Good,3
+7/14/2023 7:10:06,Communication and information,Neutral,Average,Average,Good,Average,Yes,3,4,Yes,Moderately Available,Good,Good,Moderately satisfied,Average,Average,3
+7/14/2023 7:11:36,Student support services,Likely,Average,Good,Good,Average,Yes,2,3,Yes,Very Available,Average,Average,Slightly satisfied,Good,Good,4
+7/14/2023 7:20:39,Campus facilities,Likely,Average,Average,Good,Good,No,3,1,Yes,Slightly Available,Average,Poor,Very satisfied,Good,Excellent,4
+7/14/2023 7:37:36,Student support services,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Very satisfied,Excellent,Excellent,5
+7/14/2023 7:47:07,Academics,Very likely,Good,Average,Good,Good,Yes,2,2,Yes,Very Available,Good,Good,Extremely satisfied,Good,Excellent,1
+7/14/2023 7:47:54,Campus facilities,Very likely,Good,Good,Good,Good,No,2,2,Yes,Very Available,Good,Average,Very satisfied,Excellent,Excellent,2
+7/14/2023 7:48:25,Campus facilities,Neutral,Below Average,Below Average,Average,Average,No,3,2,No,Moderately Available,Below Average,Average,Moderately satisfied,Average,Average,3
+7/14/2023 7:49:12,Academics,Neutral,Good,Below Average,Good,Good,No,4,4,No,Moderately Available,Excellent,Good,Extremely satisfied,Average,Average,4
+7/14/2023 7:51:42,Academics,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,4,1,Yes,Very Available,Excellent,Good,Extremely satisfied,Excellent,Excellent,5
+7/14/2023 7:53:21,Communication and information,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/14/2023 7:59:38,Academics,Neutral,Average,Good,Good,Average,No,2,3,No,Moderately Available,Below Average,Good,Moderately satisfied,Good,Average,3
+7/14/2023 8:01:05,Academics,Very unlikely,Poor,Poor,Poor,Poor,No,1,1,No,Not Available,Average,Poor,Not satisfied,Poor,Poor,1
+7/14/2023 8:09:26,Academics,Likely,Excellent,Excellent,Excellent,Good,Yes,1,3,Yes,Moderately Available,Good,Good,Extremely satisfied,Good,Good,4
+7/14/2023 8:13:27,Campus facilities,Likely,Average,Average,Good,Good,Yes,4,4,No,Moderately Available,Below Average,Good,Very satisfied,Good,Good,4
+7/14/2023 8:19:27,Academics,Likely,Good,Good,Good,Good,Yes,1,1,Yes,Moderately Available,Good,Good,Very satisfied,Excellent,Good,1
+7/14/2023 8:40:05,Communication and information,Neutral,Average,Good,Good,Average,Yes,1,3,Yes,Very Available,Good,Good,Very satisfied,Good,Good,1
+7/14/2023 8:46:42,Other,Neutral,Average,Average,Average,Average,Yes,2,2,No,Moderately Available,Average,Good,Moderately satisfied,Good,Good,1
+7/14/2023 8:47:16,Campus facilities,Likely,Excellent,Average,Poor,Good,Yes,2,3,No,Slightly Available,Good,Average,Moderately satisfied,Good,Good,4
+7/14/2023 8:49:43,Academics,Very likely,Good,Good,Good,Good,Yes,4,5,No,Very Available,Good,Good,Very satisfied,Good,Good,5
+7/14/2023 8:55:43,Student support services,Neutral,Good,Good,Good,Good,Yes,1,1,Yes,Moderately Available,Good,Good,Moderately satisfied,Good,Good,1
+7/14/2023 8:55:43,Student support services,Neutral,Good,Good,Good,Good,Yes,1,1,Yes,Moderately Available,Good,Good,Moderately satisfied,Good,Good,1
+7/14/2023 8:56:32,Student support services,Neutral,Good,Good,Good,Good,Yes,1,1,Yes,Moderately Available,Good,Good,Moderately satisfied,Good,Good,1
+7/14/2023 8:58:04,Other,Likely,Poor,Good,Excellent,Below Average,Yes,5,3,No,Moderately Available,Good,Average,Extremely satisfied,Average,Excellent,4
+7/14/2023 8:58:36,Campus facilities,Neutral,Average,Average,Average,Average,No,3,5,Yes,Very Available,Average,Average,Moderately satisfied,Average,Excellent,3
+7/14/2023 8:59:00,Campus facilities,Likely,Below Average,Average,Average,Average,Yes,4,5,Yes,Very Available,Average,Average,Moderately satisfied,Average,Good,5
+7/14/2023 9:00:49,Other,Very likely,Good,Poor,Good,Average,Yes,1,1,Yes,Not Available,Good,Excellent,Very satisfied,Good,Excellent,1
+7/14/2023 9:06:09,Other,Neutral,Average,Average,Excellent,Poor,Yes,2,3,Yes,Moderately Available,Below Average,Average,Moderately satisfied,Average,Below Average,2
+7/14/2023 9:14:27,Student support services,Neutral,Excellent,Excellent,Average,Average,Yes,2,3,Yes,Very Available,Good,Good,Very satisfied,Good,Good,1
+7/14/2023 9:16:28,Campus facilities,Likely,Average,Good,Average,Average,Yes,4,4,Yes,Moderately Available,Average,Good,Moderately satisfied,Good,Good,3
+7/14/2023 9:17:37,Other,Likely,Average,Good,Average,Good,Yes,1,3,No,Very Available,Average,Average,Very satisfied,Average,Average,5
+7/14/2023 9:31:10,Student support services,Neutral,Good,Average,Good,Below Average,Yes,2,2,Yes,Moderately Available,Average,Average,Slightly satisfied,Good,Good,1
+7/14/2023 9:31:22,Campus facilities,Neutral,Good,Excellent,Average,Average,Yes,1,3,Yes,Moderately Available,Poor,Good,Not satisfied,Average,Average,1
+7/14/2023 9:34:44,Communication and information,Very likely,Good,Good,Good,Average,Yes,3,3,No,Not Available,Average,Good,Moderately satisfied,Average,Good,3
+7/14/2023 9:37:45,Student support services,Neutral,Good,Good,Good,Good,Yes,1,1,Yes,Moderately Available,Good,Good,Moderately satisfied,Good,Good,1
+7/14/2023 9:41:33,Student support services,Very likely,Average,Good,Average,Poor,Yes,2,1,Yes,Slightly Available,Average,Good,Very satisfied,Average,Good,3
+7/14/2023 9:48:58,Academics,Very likely,Good,Good,Good,Average,Yes,3,3,Yes,Moderately Available,Below Average,Excellent,Moderately satisfied,Good,Excellent,4
+7/14/2023 9:56:42,Other,Likely,Good,Average,Poor,Average,Yes,5,4,No,Moderately Available,Good,Average,Very satisfied,Good,Excellent,2
+7/14/2023 9:58:49,Communication and information,Likely,Good,Good,Good,Good,No,2,2,No,Moderately Available,Good,Average,Moderately satisfied,Good,Average,3
+7/14/2023 10:15:42,Other,Very likely,Excellent,Good,Average,Average,Yes,2,5,Yes,Very Available,Good,Good,Extremely satisfied,Good,Good,5
+7/14/2023 10:44:43,Student support services,Neutral,Average,Average,Average,Average,Yes,3,3,No,Slightly Available,Below Average,Good,Slightly satisfied,Average,Average,3
+7/14/2023 10:49:16,Campus facilities,Likely,Good,Average,Average,Good,No,4,4,No,Moderately Available,Good,Excellent,Moderately satisfied,Good,Excellent,4
+7/14/2023 10:51:31,Academics,Likely,Average,Average,Good,Excellent,Yes,4,4,Yes,Moderately Available,Poor,Excellent,Very satisfied,Good,Good,3
+7/14/2023 10:53:12,Campus facilities,Likely,Good,Excellent,Below Average,Poor,No,2,2,No,Slightly Available,Good,Below Average,Slightly satisfied,Below Average,Below Average,2
+7/14/2023 10:59:06,Academics,Likely,Excellent,Good,Poor,Good,Yes,4,4,Yes,Moderately Available,Average,Excellent,Extremely satisfied,Average,Good,3
+7/14/2023 11:09:43,Campus facilities,Very likely,Excellent,Good,Excellent,Good,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/14/2023 11:09:47,Campus facilities,Very unlikely,Below Average,Poor,Poor,Poor,No,5,5,No,Not Available,Poor,Poor,Slightly satisfied,Poor,Poor,5
+7/14/2023 11:13:46,Campus facilities,Neutral,Good,Good,Excellent,Poor,Yes,2,3,No,Moderately Available,Poor,Good,Slightly satisfied,Good,Good,2
+7/14/2023 11:18:57,Other,Very likely,Good,Excellent,Good,Excellent,Yes,3,3,Yes,Very Available,Excellent,Excellent,Very satisfied,Excellent,Excellent,3
+7/14/2023 12:20:46,Student support services,Neutral,Good,Excellent,Average,Average,No,5,4,Yes,Very Available,Good,Excellent,Very satisfied,Good,Good,3
+7/14/2023 13:47:00,Campus facilities,Very likely,Poor,Good,Good,Good,Yes,1,2,Yes,Not Available,Excellent,Good,Very satisfied,Excellent,Good,2
+7/14/2023 13:58:54,Academics,Likely,Good,Good,Good,Good,Yes,1,2,No,Very Available,Good,Good,Very satisfied,Average,Good,1
+7/14/2023 14:13:16,Communication and information,Neutral,Good,Good,Good,Good,Yes,3,4,No,Moderately Available,Excellent,Good,Moderately satisfied,Average,Average,3
+7/14/2023 14:13:18,Academics,Neutral,Good,Good,Excellent,Average,Yes,3,3,Yes,Moderately Available,Average,Below Average,Slightly satisfied,Average,Good,3
+7/14/2023 14:16:10,Communication and information,Likely,Good,Average,Average,Good,Yes,3,3,No,Moderately Available,Good,Average,Moderately satisfied,Average,Good,3
+7/14/2023 14:54:25,Student support services,Likely,Below Average,Good,Average,Good,Yes,2,2,No,Not Available,Poor,Poor,Moderately satisfied,Below Average,Average,3
+7/14/2023 16:00:23,Campus facilities,Likely,Average,Average,Average,Average,No,3,3,No,Slightly Available,Below Average,Average,Not satisfied,Average,Average,3
+7/14/2023 17:37:12,Student support services,Very likely,Good,Good,Good,Good,Yes,2,2,Yes,Moderately Available,Good,Good,Very satisfied,Good,Good,1
+7/14/2023 17:51:52,Other,Likely,Good,Excellent,Excellent,Good,No,4,4,No,Moderately Available,Good,Excellent,Extremely satisfied,Excellent,Excellent,4
+7/14/2023 17:54:00,Student support services,Very unlikely,Below Average,Good,Poor,Poor,Yes,1,1,No,Not Available,Poor,Poor,Not satisfied,Average,Poor,1
+7/14/2023 19:07:51,Campus facilities,Unlikely,Poor,Poor,Below Average,Excellent,Yes,4,5,Yes,Very Available,Poor,Good,Moderately satisfied,Average,Good,3
+7/14/2023 19:11:52,Campus facilities,Likely,Good,Good,Excellent,Average,No,1,3,No,Moderately Available,Good,Good,Slightly satisfied,Good,Good,1
+7/14/2023 19:14:29,Student support services,Very unlikely,Good,Poor,Below Average,Average,Yes,1,5,No,Not Available,Good,Average,Not satisfied,Below Average,Good,4
+7/14/2023 20:00:05,Communication and information,Very likely,Good,Good,Good,Good,Yes,3,3,Yes,Moderately Available,Good,Good,Moderately satisfied,Good,Good,5
+7/14/2023 20:06:12,Academics,Likely,Good,Good,Average,Good,Yes,1,3,Yes,Moderately Available,Good,Good,Very satisfied,Good,Good,2
+7/14/2023 21:28:28,Communication and information,Very likely,Below Average,Below Average,Good,Excellent,No,4,5,Yes,Not Available,Average,Good,Extremely satisfied,Average,Poor,1
+7/14/2023 21:37:08,Student support services,Very likely,Excellent,Excellent,Excellent,Average,No,5,5,No,Very Available,Excellent,Excellent,Very satisfied,Excellent,Excellent,4
+7/14/2023 21:44:07,Communication and information,Neutral,Good,Good,Average,Excellent,No,4,4,Yes,Slightly Available,Excellent,Good,Very satisfied,Below Average,Average,3
+7/14/2023 22:57:18,Student support services,Very likely,Good,Good,Good,Excellent,Yes,3,4,No,Moderately Available,Good,Good,Very satisfied,Excellent,Good,4
+7/15/2023 0:24:32,Other,Likely,Good,Good,Good,Good,Yes,5,5,Yes,Moderately Available,Good,Good,Not satisfied,Good,Good,4
+7/15/2023 0:41:42,Student support services,Neutral,Good,Average,Average,Below Average,Yes,2,3,Yes,Slightly Available,Average,Good,Moderately satisfied,Average,Good,4
+7/15/2023 8:06:52,Academics,Likely,Excellent,Below Average,Excellent,Good,Yes,5,5,Yes,Very Available,Excellent,Good,Very satisfied,Excellent,Average,5
+7/15/2023 9:27:49,Student support services,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/15/2023 11:36:28,Communication and information,Neutral,Good,Average,Excellent,Excellent,Yes,4,4,No,Very Available,Good,Excellent,Slightly satisfied,Good,Good,3
+7/15/2023 13:27:15,Campus facilities,Very likely,Good,Good,Good,Good,No,4,4,No,Very Available,Good,Good,Very satisfied,Good,Good,4
+7/15/2023 13:29:11,Student support services,Very likely,Good,Good,Good,Good,Yes,4,3,Yes,Moderately Available,Good,Good,Very satisfied,Good,Good,2
+7/15/2023 14:04:56,Communication and information,Neutral,Below Average,Good,Below Average,Below Average,Yes,3,2,Yes,Moderately Available,Average,Below Average,Not satisfied,Average,Average,3
+7/15/2023 17:39:19,Academics,Unlikely,Below Average,Average,Average,Average,No,3,3,No,Moderately Available,Average,Average,Moderately satisfied,Average,Average,2
+7/15/2023 19:45:35,Campus facilities,Neutral,Average,Average,Excellent,Average,No,3,1,Yes,Moderately Available,Average,Average,Moderately satisfied,Average,Average,1
+7/15/2023 22:02:10,Student support services,Likely,Excellent,Excellent,Excellent,Excellent,Yes,3,2,No,Moderately Available,Excellent,Excellent,Moderately satisfied,Good,Good,4
+7/16/2023 9:15:22,Communication and information,Likely,Good,Excellent,Good,Good,Yes,5,4,No,Moderately Available,Excellent,Good,Moderately satisfied,Good,Excellent,4
+7/16/2023 9:27:17,Student support services,Very unlikely,Below Average,Excellent,Good,Good,Yes,4,3,Yes,Moderately Available,Good,Below Average,Not satisfied,Good,Average,3
+7/16/2023 13:50:49,Student support services,Likely,Good,Excellent,Good,Average,Yes,3,3,No,Very Available,Excellent,Good,Very satisfied,Average,Good,4
+7/16/2023 14:53:22,Other,Likely,Excellent,Excellent,Good,Excellent,Yes,3,3,No,Moderately Available,Excellent,Good,Very satisfied,Good,Good,4
+7/16/2023 17:08:33,Communication and information,Likely,Good,Excellent,Excellent,Good,Yes,4,5,Yes,Moderately Available,Excellent,Good,Very satisfied,Excellent,Good,4
+7/16/2023 17:09:22,Academics,Neutral,Poor,Average,Poor,Poor,Yes,4,1,No,Not Available,Poor,Poor,Not satisfied,Average,Average,2
+7/16/2023 17:11:31,Student support services,Very likely,Average,Average,Good,Good,Yes,3,4,No,Moderately Available,Good,Good,Very satisfied,Good,Good,3
+7/17/2023 6:10:03,Student support services,Neutral,Good,Good,Good,Good,Yes,1,5,Yes,Slightly Available,Good,Good,Very satisfied,Good,Good,5
+7/17/2023 11:52:12,Academics,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,No,Very Available,Excellent,Excellent,Extremely satisfied,Excellent,Excellent,5
+7/17/2023 21:27:05,Student support services,Unlikely,Good,Good,Average,Good,No,4,3,Yes,Moderately Available,Excellent,Excellent,Moderately satisfied,Average,Average,2
+7/18/2023 13:05:13,Other,Neutral,Average,Average,Average,Average,Yes,2,1,No,Slightly Available,Average,Average,Moderately satisfied,Average,Average,1
+7/18/2023 17:14:18,Student support services,Neutral,Good,Good,Good,Excellent,No,3,3,No,Moderately Available,Excellent,Average,Moderately satisfied,Average,Good,3
+7/18/2023 21:56:16,Campus facilities,Very likely,Good,Excellent,Excellent,Excellent,Yes,2,1,Yes,Very Available,Good,Excellent,Very satisfied,Good,Excellent,2
+7/20/2023 3:48:18,Student support services,Neutral,Average,Good,Good,Good,No,3,3,No,Moderately Available,Good,Average,Moderately satisfied,Average,Average,3
+7/20/2023 5:31:14,Student support services,Neutral,Good,Good,Good,Excellent,No,4,3,Yes,Moderately Available,Good,Good,Moderately satisfied,Good,Average,1
+7/20/2023 9:16:38,Campus facilities,Very likely,Excellent,Excellent,Excellent,Excellent,Yes,5,5,Yes,Moderately Available,Excellent,Good,Moderately satisfied,Good,Excellent,5
+7/20/2023 21:58:32,Communication and information,Neutral,Average,Excellent,Average,Excellent,Yes,2,3,Yes,Slightly Available,Excellent,Excellent,Moderately satisfied,Excellent,Good,3
+7/21/2023 9:58:46,Academics,Very unlikely,Poor,Good,Below Average,Good,No,1,3,No,Not Available,Good,Average,Slightly satisfied,Poor,Below Average,1
+7/22/2023 2:00:58,Communication and information,Neutral,Below Average,Average,Below Average,Good,Yes,3,3,No,Slightly Available,Average,Below Average,Moderately satisfied,Average,Average,3
+7/22/2023 19:07:47,Other,Neutral,Below Average,Excellent,Poor,Good,Yes,3,4,No,Slightly Available,Good,Below Average,Moderately satisfied,Average,Below Average,2
+7/24/2023 16:42:10,Academics,Very unlikely,Excellent,Good,Good,Excellent,Yes,4,4,Yes,Moderately Available,Excellent,Good,Extremely satisfied,Good,Good,5
+7/26/2023 3:50:34,Academics,Likely,Poor,Good,Good,Excellent,No,2,3,Yes,Not Available,Excellent,Average,Very satisfied,Average,Poor,3
+7/27/2023 4:29:08,Student support services,Very likely,Good,Good,Good,Good,Yes,5,5,No,Moderately Available,Good,Good,Extremely satisfied,Good,Good,5
+7/27/2023 17:23:26,Campus facilities,Neutral,Good,Good,Average,Below Average,Yes,5,2,No,Very Available,Average,Good,Very satisfied,Good,Good,3
