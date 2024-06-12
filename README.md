@@ -27,3 +27,12 @@ Conclusion:
    areas.
 - To conclude, all the attributes combine and give high student satisfaction but the major contributors were recommendation likeliness, course clarity, classroom interaction,
    teaching quality, and extracurricular activities.
+
+  Languages and Libraries Used:
+- Python
+  - Pandas
+  - NumPy
+  - Scikit-learn
+  - NLTK (Natural Language Toolkit)
+  - Matplotlib
+  - Seaborn
